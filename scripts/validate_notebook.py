@@ -22,7 +22,7 @@ def validate():
 
     cells = nb.get("cells", [])
     print(f"Total Cells: {len(cells)}")
-    assert len(cells) == 27, f"Expected 27 cells, got {len(cells)}"
+    assert len(cells) == 39, f"Expected 39 cells, got {len(cells)}"
 
     syntax_errors = 0
     for idx, cell in enumerate(cells, 1):
@@ -44,7 +44,7 @@ def validate():
 
     print("=" * 65)
     if syntax_errors == 0:
-        print("✅ ALL 27 CELLS PASSED SYNTAX & STRUCTURE AUDIT")
+        print(f"✅ ALL {len(cells)} CELLS PASSED SYNTAX & STRUCTURE AUDIT")
     else:
         print(f"❌ Found {syntax_errors} syntax errors")
         sys.exit(1)
