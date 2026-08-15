@@ -1,0 +1,2000 @@
+{"text": "launch the powerpoint app", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "my github is machine learning basics", "intent": "remember_fact", "fact": "machine learning basics"}
+{"text": "Remember That My Name Is Kannada Songs", "intent": "remember_fact", "fact": "kannada songs"}
+{"text": "RESEARCH ARTIFICIAL INTELLIGENCE", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "REMEMBER THAT MY NAME IS NEW MUSIC 2024!", "intent": "remember_fact", "fact": "new music 2024"}
+{"text": "i need to send weekly report add it to my tasks", "intent": "create_task", "task": "send weekly report"}
+{"text": "SEND MESSAGE TO SUPPORT@SERVICE.COM", "intent": "send_email", "email": "support@service.com"}
+{"text": "research react hooks...", "intent": "google_search", "query": "react hooks"}
+{"text": "read document resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "create github project personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "create a new repository named mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "youtube computer vision...", "intent": "youtube_search", "query": "computer vision"}
+{"text": "add send weekly report to my tasks", "intent": "create_task", "task": "send weekly report"}
+{"text": "i need to find data science course", "intent": "google_search", "query": "data science course"}
+{"text": "Search Latest News Song", "intent": "youtube_search", "query": "latest news"}
+{"text": "hey find me kubernetes guide on youtube", "intent": "youtube_search", "query": "kubernetes guide"}
+{"text": "search the web for ted talks", "intent": "google_search", "query": "ted talks"}
+{"text": "remember that my name is kubernetes guide", "intent": "remember_fact", "fact": "kubernetes guide"}
+{"text": "save that react hooks...", "intent": "remember_fact", "fact": "react hooks"}
+{"text": "search youtube for kannada songs", "intent": "youtube_search", "query": "kannada songs"}
+{"text": "pull updates from fastapi-backend...", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "Search Fastapi Tutorial In Google.", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "get latest from fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "my project is yoga for beginners", "intent": "remember_fact", "fact": "yoga for beginners"}
+{"text": "put optimize database on my task list", "intent": "create_task", "task": "optimize database"}
+{"text": "save that tamil songs", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "push latest commit to ecommerce-app", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "make a new task for attend team meeting?", "intent": "create_task", "task": "attend team meeting"}
+{"text": "launch the vs code app", "intent": "open_application", "app_name": "vs code"}
+{"text": "push changes to react-dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "pull updates from ml-model please", "intent": "github_pull", "repo": "ml-model"}
+{"text": "write an email to mentor@college.edu", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "Draft An Email To Friend@Gmail.Com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "sync code with personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "look up new music 2024 on youtube", "intent": "youtube_search", "query": "new music 2024"}
+{"text": "launch the calculator app", "intent": "open_application", "app_name": "calculator"}
+{"text": "mj OPEN THE MICROSOFT WORD APP", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "New Task Pay Electricity Bill", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "start the slack", "intent": "open_application", "app_name": "slack"}
+{"text": "search for motivational speeches online", "intent": "google_search", "query": "motivational speeches"}
+{"text": "create a new repository named my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "send an email about deploy to production to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "extract data from data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "LAUNCH TERMINAL", "intent": "open_application", "app_name": "terminal"}
+{"text": "can you launch terminal for me", "intent": "open_application", "app_name": "terminal"}
+{"text": "read document specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "keep in mind that latest news.", "intent": "remember_fact", "fact": "latest news"}
+{"text": "Remember That My Name Is Ted Talks", "intent": "remember_fact", "fact": "ted talks"}
+{"text": "find how to invest movie trailer on youtube", "intent": "youtube_search", "query": "how to invest"}
+{"text": "send friend@gmail.com an email", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "Pull Updates From Ml-Model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "SEND AN EMAIL ABOUT SEND WEEKLY REPORT TO TEAM@STARTUP.IO please", "intent": "send_email", "email": "team@startup.io"}
+{"text": "what is in this pdf report.pdf please", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "extract text from invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "GIT PUSH TO MY-PORTFOLIO", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "my stack is funny videos", "intent": "remember_fact", "fact": "funny videos"}
+{"text": "pull updates from ai-chatbot?", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "extract data from proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "send message to mentor@college.edu", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "search youtube for javascript tips", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "PUT EXERCISE FOR 30 MINUTES ON MY TASK LIST.", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "create github project mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "Send An Email About Complete Assignment To Client@Business.Com", "intent": "send_email", "email": "client@business.com"}
+{"text": "my github is motivational speeches", "intent": "remember_fact", "fact": "motivational speeches"}
+{"text": "Play Kannada Songs On Youtube", "intent": "youtube_search", "query": "kannada songs"}
+{"text": "Send An Email About Optimize Database To Support@Service.Com", "intent": "send_email", "email": "support@service.com"}
+{"text": "I AM PREPARING FOR HOW TO COOK PASTA", "intent": "remember_fact", "fact": "how to cook pasta"}
+{"text": "extract data from proposal.docx please", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "sync code with ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "Make A New Repo Personal-Blog?", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "hey mj open steam please", "intent": "open_application", "app_name": "steam"}
+{"text": "create task: fix the login bug", "intent": "create_task", "task": "fix the login bug"}
+{"text": "new github repository ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "find stock market tips online", "intent": "google_search", "query": "stock market tips"}
+{"text": "look up new music 2024", "intent": "google_search", "query": "new music 2024"}
+{"text": "search youtube for trending songs", "intent": "youtube_search", "query": "trending songs"}
+{"text": "create repo ai-chatbot on github...", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "create public repo ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "push latest commit to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "create github project fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "Analyze Resume.Pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "google search programming memes", "intent": "google_search", "query": "programming memes"}
+{"text": "google search bollywood songs", "intent": "google_search", "query": "bollywood songs"}
+{"text": "note that fastapi tutorial", "intent": "remember_fact", "fact": "fastapi tutorial"}
+{"text": "add a task refactor auth module", "intent": "create_task", "task": "refactor auth module"}
+{"text": "Write An emial To Hr@Company.Org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "pull updates from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "send an email about write api documentation to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "open youtube search bollywood songs", "intent": "youtube_search", "query": "bollywood songs"}
+{"text": "Search Docker Tutorial On Youtube", "intent": "youtube_search", "query": "docker tutorial"}
+{"text": "git push to ecommerce-app", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "pdf analysis invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "what is gym workout google it", "intent": "google_search", "query": "gym workout"}
+{"text": "Read This Pdf Resume.Pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "note that ted talks", "intent": "remember_fact", "fact": "ted talks"}
+{"text": "WHAT IS TAMIL SONGS GOOGLE IT", "intent": "google_search", "query": "tamil songs"}
+{"text": "mj push to personal-blog on github", "intent": "github_push", "repo": "personal-blog"}
+{"text": "Find Me Results For Machine Learning Basics", "intent": "google_search", "query": "machine learning basics"}
+{"text": "I WORK AT LATEST NEWS please", "intent": "remember_fact", "fact": "latest news"}
+{"text": "ADD A TASK BUY GROCERIES", "intent": "create_task", "task": "buy groceries"}
+{"text": "remember that my name is cricket highlights", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "Create An Urgent Task Learn Docker", "intent": "create_task", "task": "learn docker"}
+{"text": "hey Compose Email To Client@Business.Com", "intent": "send_email", "email": "client@business.com"}
+{"text": "setup github repo ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "search for best movies 2024 on youtube please", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "Draft An Email To Support@Service.Com", "intent": "send_email", "email": "support@service.com"}
+{"text": "search bollywood songs please", "intent": "google_search", "query": "bollywood songs"}
+{"text": "push code to ai-chatbot repo", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "bring up notepad...", "intent": "open_application", "app_name": "notepad"}
+{"text": "SEARCH FOR WEB SCRAPING PYTHON", "intent": "google_search", "query": "web scraping python"}
+{"text": "push code to personal-blog repo", "intent": "github_push", "repo": "personal-blog"}
+{"text": "START THE VLC", "intent": "open_application", "app_name": "vlc"}
+{"text": "hey initialize github repository fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "git pull my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "extract data from analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "git pull mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "setup github repo personal-blog?", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "contact friend@gmail.com by email", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "COMPOSE EMAIL TO JOHN@GMAIL.COM", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "create a private repo ecommerce-app please", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "Find Information About Javascript Tips", "intent": "google_search", "query": "javascript tips"}
+{"text": "Email Team@Startup.Io The Setup Ci Cd Pipeline Details!", "intent": "send_email", "email": "team@startup.io"}
+{"text": "create repo my-portfolio on github", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "mj open powerpoint program", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "My Github Is How To Cook Pasta", "intent": "remember_fact", "fact": "how to cook pasta"}
+{"text": "draft an email to boss@company.com", "intent": "send_email", "email": "boss@company.com"}
+{"text": "Can You Open Paint.", "intent": "open_application", "app_name": "paint"}
+{"text": "sync code with mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "pdf analysis invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "OPEN YOUTUBE AND SEARCH FOR CRICKET HIGHLIGHTS?", "intent": "youtube_search", "query": "cricket highlights"}
+{"text": "Start Excel Please.", "intent": "open_application", "app_name": "excel"}
+{"text": "Initialize Repo Mj-Assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "opne the powershell app", "intent": "open_application", "app_name": "powershell"}
+{"text": "Make A New Repo Mj-Assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "my preference is lofi music please", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "contact friend@gmail.com by email", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "pull updates from react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "find cricket highlights movie trailer on youtube", "intent": "youtube_search", "query": "cricket highlights"}
+{"text": "sync code with ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "summarize pdf notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "New Github Repository Personal-Blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "compose email to friend@gmail.com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "Hey Mj Open Powershell...", "intent": "open_application", "app_name": "powershell"}
+{"text": "Push Code To React-Dashboard Repo", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "youtube search gym workout", "intent": "youtube_search", "query": "gym workout"}
+{"text": "Search The Web For Latest News?", "intent": "google_search", "query": "latest news"}
+{"text": "hey get latest from data-pipeline?", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "DRAFT AN emaail TO HR@COMPANY.ORG", "intent": "send_email", "email": "hr@company.org"}
+{"text": "push latest commit to ai-chatbot", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "pull updates from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "analyze proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "Push Changes To React-Dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "make a new repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "email client@business.com the submit project proposal details", "intent": "send_email", "email": "client@business.com"}
+{"text": "can you search programming memes on youtube", "intent": "youtube_search", "query": "programming memes"}
+{"text": "add to my todo list pay electricity bill please", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "add to my todo list read 20 pages", "intent": "create_task", "task": "read 20 pages"}
+{"text": "PUSH CHANGES TO ECOMMERCE-APP", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "send hr@company.org an email?", "intent": "send_email", "email": "hr@company.org"}
+{"text": "CAN YOU GOOGLE PERSONAL FINANCE", "intent": "google_search", "query": "personal finance"}
+{"text": "email mentor@college.edu about write unit tests", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "save that personal finance...", "intent": "remember_fact", "fact": "personal finance"}
+{"text": "EMAIL MENTOR@COLLEGE.EDU ABOUT FIX THE LOGIN BUG", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "Add New Task Prepare Presentation Please", "intent": "create_task", "task": "prepare presentation"}
+{"text": "BRING UP STEAM please", "intent": "open_application", "app_name": "steam"}
+{"text": "analyze analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "PUSH CHANGES TO PERSONAL-BLOG!", "intent": "github_push", "repo": "personal-blog"}
+{"text": "start up file explorer.", "intent": "open_application", "app_name": "file explorer"}
+{"text": "can you google coding music", "intent": "google_search", "query": "coding music"}
+{"text": "Find Information About Funny Videos", "intent": "google_search", "query": "funny videos"}
+{"text": "my preference is artificial intelligence", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "bring up microsoft word", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "crate a github repo called fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "Git Pull Ml-Model?", "intent": "github_pull", "repo": "ml-model"}
+{"text": "opne powerpoint on my computer", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "contact recruiter@tech.com by email", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "add refactor auth module to my tasks", "intent": "create_task", "task": "refactor auth module"}
+{"text": "pull from data-pipeline?", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "add prepare presentation to my tasks", "intent": "create_task", "task": "prepare presentation"}
+{"text": "extract data from invoice.pdf?", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "make a new repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "Add Call The Doctor To My Tasks", "intent": "create_task", "task": "call the doctor"}
+{"text": "search javascript tips on the internet", "intent": "google_search", "query": "javascript tips"}
+{"text": "look how to invest up on google", "intent": "google_search", "query": "how to invest"}
+{"text": "My Location Is Machine Learning Basics", "intent": "remember_fact", "fact": "machine learning basics"}
+{"text": "add task deploy to production high priority", "intent": "create_task", "task": "deploy to production"}
+{"text": "opn snipping tool program", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "make a task to call the doctor", "intent": "create_task", "task": "call the doctor"}
+{"text": "open discord program", "intent": "open_application", "app_name": "discord"}
+{"text": "opne the chrome app", "intent": "open_application", "app_name": "chrome"}
+{"text": "go to youtube and search gym workout?", "intent": "youtube_search", "query": "gym workout"}
+{"text": "Send Hr@Company.Org An Email", "intent": "send_email", "email": "hr@company.org"}
+{"text": "Extract Text From Proposal.Docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "WRITE TO PROFESSOR@UNIVERSITY.EDU", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "EMAIL CLIENT@BUSINESS.COM ABOUT LEARN DOCKER.", "intent": "send_email", "email": "client@business.com"}
+{"text": "launch paint application", "intent": "open_application", "app_name": "paint"}
+{"text": "new github repository personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "google search funny videos", "intent": "google_search", "query": "funny videos"}
+{"text": "send message to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "look machine learning basics up on gogle", "intent": "google_search", "query": "machine learning basics"}
+{"text": "pull updates from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "email professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "Get Latest From Data-Pipeline...", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "push latest commit to fastapi-backend", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "pull from fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "push code to react-dashboard repo?", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "i am preparing for gym workout?", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "push changes to mobile-app", "intent": "github_push", "repo": "mobile-app"}
+{"text": "remember my cricket highlights", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "NOTE THAT TED TALKS...", "intent": "remember_fact", "fact": "ted talks"}
+{"text": "PULL FROM ML-MODEL", "intent": "github_pull", "repo": "ml-model"}
+{"text": "Can You Search Latest News On Youtube", "intent": "youtube_search", "query": "latest news"}
+{"text": "compose email to friend@gmail.com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "extract data from specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "hey mj seach youtube for data science course", "intent": "youtube_search", "query": "data science course"}
+{"text": "launch file explorer please", "intent": "open_application", "app_name": "file explorer"}
+{"text": "push code to data-pipeline repo", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "SEND TEAM@STARTUP.IO AN EMAIL!", "intent": "send_email", "email": "team@startup.io"}
+{"text": "get latest from ai-chatbot please", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "fire up discord", "intent": "open_application", "app_name": "discord"}
+{"text": "SCHEDULE TASK DEPLOY TO PRODUCTION.", "intent": "create_task", "task": "deploy to production"}
+{"text": "Pull Updates From Ml-Model!", "intent": "github_pull", "repo": "ml-model"}
+{"text": "open steam app please", "intent": "open_application", "app_name": "steam"}
+{"text": "look for yoga for beginners on youtube please", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "start chrome", "intent": "open_application", "app_name": "chrome"}
+{"text": "Push Changes To Fastapi-Backend", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "pull from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "pull updates from fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "look for deep learning on youtube", "intent": "youtube_search", "query": "deep learning"}
+{"text": "my stack is motivational speeches", "intent": "remember_fact", "fact": "motivational speeches"}
+{"text": "start the powerpoint", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "Launch Slack", "intent": "open_application", "app_name": "slack"}
+{"text": "EXTRACT TEXT FROM PROPOSAL.DOCX", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "write to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "add to my todo list review pull request", "intent": "create_task", "task": "review pull request"}
+{"text": "Set Up A New Github Repo For Ml-Model?", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "git push to fastapi-backend", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "extract data from project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "note that deep learning", "intent": "remember_fact", "fact": "deep learning"}
+{"text": "create public repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "push to personal-blog on github", "intent": "github_push", "repo": "personal-blog"}
+{"text": "add new task prepare presentation please please", "intent": "create_task", "task": "prepare presentation"}
+{"text": "make a new task for read 20 pages", "intent": "create_task", "task": "read 20 pages"}
+{"text": "my github is lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "my stack is deep learning", "intent": "remember_fact", "fact": "deep learning"}
+{"text": "push code to personal-blog repo", "intent": "github_push", "repo": "personal-blog"}
+{"text": "what does this pdf say invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "send email to team@startup.io about write unit tests", "intent": "send_email", "email": "team@startup.io"}
+{"text": "SET A tsak FOR WRITE UNIT TESTS", "intent": "create_task", "task": "write unit tests"}
+{"text": "My Stack Is Stock Market Tips", "intent": "remember_fact", "fact": "stock market tips"}
+{"text": "push changes to react-dashboard.", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "search for tamil songs online...", "intent": "google_search", "query": "tamil songs"}
+{"text": "GITHUB NEW REPO ML-MODEL", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "create a reminder for write api documentation", "intent": "create_task", "task": "write api documentation"}
+{"text": "get notepad running", "intent": "open_application", "app_name": "notepad"}
+{"text": "search lofi music song", "intent": "youtube_search", "query": "lofi music"}
+{"text": "Read This Pdf Report.Pdf please", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "push changes to mj-assistant?", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "add update documentation to my to-do", "intent": "create_task", "task": "update documentation"}
+{"text": "Make A New Task For Attend Team Meeting", "intent": "create_task", "task": "attend team meeting"}
+{"text": "pull updates from react-dashboard?", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "search latest news on the internet?", "intent": "google_search", "query": "latest news"}
+{"text": "extract data from notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "Youtube seach For Personal Finance Please", "intent": "youtube_search", "query": "personal finance"}
+{"text": "hey mj find python tutorial song on youttube", "intent": "youtube_search", "query": "python tutorial"}
+{"text": "open calculator on my computer", "intent": "open_application", "app_name": "calculator"}
+{"text": "push to mj-assistant on github", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "schedule task complete assignment", "intent": "create_task", "task": "complete assignment"}
+{"text": "Git Pull Personal-Blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "research ted talks", "intent": "google_search", "query": "ted talks"}
+{"text": "Start Task Manager?", "intent": "open_application", "app_name": "task manager"}
+{"text": "Analyze Notes.Pdf Document?", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "sync code with react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "my preference is latest news", "intent": "remember_fact", "fact": "latest news"}
+{"text": "search youtube for tamil songs", "intent": "youtube_search", "query": "tamil songs"}
+{"text": "write email to client@business.com regarding buy groceries", "intent": "send_email", "email": "client@business.com"}
+{"text": "Can You Open Calculator", "intent": "open_application", "app_name": "calculator"}
+{"text": "SEARCH LOFI MUSIC ON YOUTUBE...", "intent": "youtube_search", "query": "lofi music"}
+{"text": "I AM PREPARING FOR CRICKET HIGHLIGHTS", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "push code to data-pipeline repo", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "send an email about setup ci cd pipeline to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "pull from react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "Open Microsoft Word On My Computer", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "my github is artificial intelligence", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "search for stock market tips.", "intent": "google_search", "query": "stock market tips"}
+{"text": "git push to ai-chatbot", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "make github repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "MAKE GITHUB REPO AI-CHATBOT", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "Pull From Mj-Assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "SET A TASK FOR REVIEW PULL REQUEST", "intent": "create_task", "task": "review pull request"}
+{"text": "read this pdf notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "push changes to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "draft an email to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "set a task for complete assignment", "intent": "create_task", "task": "complete assignment"}
+{"text": "search stock market tips on the internet", "intent": "google_search", "query": "stock market tips"}
+{"text": "open discord?", "intent": "open_application", "app_name": "discord"}
+{"text": "EXTRACT DATA FROM DOCUMENT.PDF", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "SUMMARIZE PDF DOCUMENT.PDF", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "push changes to data-pipeline please", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "add new task learn docker please", "intent": "create_task", "task": "learn docker"}
+{"text": "pdf analysis proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "read document document.pdf!", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "open snipping tool program", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "fire up vlc", "intent": "open_application", "app_name": "vlc"}
+{"text": "Get File Explorer Running", "intent": "open_application", "app_name": "file explorer"}
+{"text": "mj google bollywood songs", "intent": "google_search", "query": "bollywood songs"}
+{"text": "summarize pdf project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "youtube search for how to cook pasta please", "intent": "youtube_search", "query": "how to cook pasta"}
+{"text": "mj initialize repo react-dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "mj find me how to invest on youtubee", "intent": "youtube_search", "query": "how to invest"}
+{"text": "what does this pdf say specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "create a new repository named ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "search machine learning basics on google", "intent": "google_search", "query": "machine learning basics"}
+{"text": "mj search natural language processing on the internet", "intent": "google_search", "query": "natural language processing"}
+{"text": "send email to support@service.com about call the doctor", "intent": "send_email", "email": "support@service.com"}
+{"text": "write to support@service.com", "intent": "send_email", "email": "support@service.com"}
+{"text": "MJ FIND ME NATURAL LANGUAGE PROCESSING ON YOUTUBE", "intent": "youtube_search", "query": "natural language processing"}
+{"text": "ADD EXERCISE FOR 30 MINUTES TO MY TASKS", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "INITIALIZE GITHUB REPOSITORY PERSONAL-BLOG", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "push changes to personal-blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "push latest commit to mobile-app", "intent": "github_push", "repo": "mobile-app"}
+{"text": "find tamil songs tutorial on youtube", "intent": "youtube_search", "query": "tamil songs"}
+{"text": "i am preparing for artificial intelligence", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "i need to buy groceries add it to my tasks please", "intent": "create_task", "task": "buy groceries"}
+{"text": "look up python tutorial on youttube", "intent": "youtube_search", "query": "python tutorial"}
+{"text": "find docker tutorial on youtube", "intent": "youtube_search", "query": "docker tutorial"}
+{"text": "MAKE GITHUB REPO MOBILE-APP", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "earch Computer Vision Please", "intent": "google_search", "query": "computer vision"}
+{"text": "youtube earch for how to cook pasta please", "intent": "youtube_search", "query": "how to cook pasta"}
+{"text": "Summarize This Document Document.Pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "what is in this pdf data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "push latest commit to ecommerce-app", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "search youtube for kannada songs", "intent": "youtube_search", "query": "kannada songs"}
+{"text": "Initialize Repo Ai-Chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "git pull my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "what does this pdf say data.csv!", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "CREATE A NEW REPOSITORY NAMED REACT-DASHBOARD.", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "Push Code To Data-Pipeline Repo", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "push changes to react-dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "create a github repo called ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "add learn docker to my tasks", "intent": "create_task", "task": "learn docker"}
+{"text": "hey create repo mj-assistant on github", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "hey get latest from my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "search trending songs on the internet", "intent": "google_search", "query": "trending songs"}
+{"text": "pdf analysis notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "PULL FROM MJ-ASSISTANT", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "Create A Github Repo Called Fastapi-Backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "pull from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "mj Can You Google Stock Market Tips", "intent": "google_search", "query": "stock market tips"}
+{"text": "new github repository my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "Extract Text From Resume.Pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "pull from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "CREATE PUBLIC REPO PERSONAL-BLOG", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "serach for javascript tips on youtube please!", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "What Is In This Pdf Proposal.Docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "Go To Youtube And Search Gym Workout!", "intent": "youtube_search", "query": "gym workout"}
+{"text": "send email to professor@university.edu about submit project proposal", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "yo push changes to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "search machine learning basics on google", "intent": "google_search", "query": "machine learning basics"}
+{"text": "Analyze Specification.Docx Document", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "i work at funny videos", "intent": "remember_fact", "fact": "funny videos"}
+{"text": "schedule tsk exercise for 30 minutes", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "hey mj hey mj search youtube for tamil songs", "intent": "youtube_search", "query": "tamil songs"}
+{"text": "play yoga for beginners video", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "youtube computer vision please", "intent": "youtube_search", "query": "computer vision"}
+{"text": "find docker tutorial on youtube please", "intent": "youtube_search", "query": "docker tutorial"}
+{"text": "remember: deep learning", "intent": "remember_fact", "fact": "deep learning"}
+{"text": "make github repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "send email to hr@company.org about send weekly report", "intent": "send_email", "email": "hr@company.org"}
+{"text": "i need to send weekly report add it to my tasks", "intent": "create_task", "task": "send weekly report"}
+{"text": "my college is new music 2024...", "intent": "remember_fact", "fact": "new music 2024"}
+{"text": "push to ecommerce-app on github...", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "git push to ai-chatbot.", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "open discord for me", "intent": "open_application", "app_name": "discord"}
+{"text": "launch notepad", "intent": "open_application", "app_name": "notepad"}
+{"text": "youtube search coding music...", "intent": "youtube_search", "query": "coding music"}
+{"text": "push code to fastapi-backend repo", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "Make A Task To Buy Groceries", "intent": "create_task", "task": "buy groceries"}
+{"text": "Find Javascript Tips Information", "intent": "google_search", "query": "javascript tips"}
+{"text": "push latest commit to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "send an emaail to support@service.com", "intent": "send_email", "email": "support@service.com"}
+{"text": "Get Latest From Mobile-App", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "pull from personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "setup github repo data-pipeline", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "remind me to attend team meeting", "intent": "create_task", "task": "attend team meeting"}
+{"text": "what is cricket highlights googel it", "intent": "google_search", "query": "cricket highlights"}
+{"text": "push to my-portfolio on github.", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "start up discord", "intent": "open_application", "app_name": "discord"}
+{"text": "hey youtube latest news", "intent": "youtube_search", "query": "latest news"}
+{"text": "extract text from document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "get latest from mj-assistant please", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "youtube how to invest", "intent": "youtube_search", "query": "how to invest"}
+{"text": "compose email to support@service.com...", "intent": "send_email", "email": "support@service.com"}
+{"text": "search for computer vision on youtube please", "intent": "youtube_search", "query": "computer vision"}
+{"text": "write to support@service.com...", "intent": "send_email", "email": "support@service.com"}
+{"text": "hey store this fact: gym workout please", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "SYNC CODE WITH MJ-ASSISTANT", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "can you google python tutorial!", "intent": "google_search", "query": "python tutorial"}
+{"text": "play python tutorial on youtube", "intent": "youtube_search", "query": "python tutorial"}
+{"text": "Create A Reminder For Pay Electricity Bill.", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "my location is personal finance", "intent": "remember_fact", "fact": "personal finance"}
+{"text": "CREATE TASK: WRITE API DOCUMENTATION", "intent": "create_task", "task": "write api documentation"}
+{"text": "draft an email to team@startup.io!", "intent": "send_email", "email": "team@startup.io"}
+{"text": "MY PROJECT IS GYM WORKOUT?", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "can you google trending songs", "intent": "google_search", "query": "trending songs"}
+{"text": "start the paint", "intent": "open_application", "app_name": "paint"}
+{"text": "i work at python tutorial", "intent": "remember_fact", "fact": "python tutorial"}
+{"text": "Analyze Proposal.Docx Document", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "write email to client@business.com regarding fix the login bug", "intent": "send_email", "email": "client@business.com"}
+{"text": "i am preparing for latest news", "intent": "remember_fact", "fact": "latest news"}
+{"text": "Analyze Invoice.Pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "write to client@business.com", "intent": "send_email", "email": "client@business.com"}
+{"text": "crate A New Repository Named Ml-Model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "push latest commit to fastapi-backend", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "run powershell", "intent": "open_application", "app_name": "powershell"}
+{"text": "remember this: coding music!", "intent": "remember_fact", "fact": "coding music"}
+{"text": "new task write api documentation", "intent": "create_task", "task": "write api documentation"}
+{"text": "Create Repo Ml-Model On Github", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "write an email to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "i need to find web scraping python.", "intent": "google_search", "query": "web scraping python"}
+{"text": "create public repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "create github project react-dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "CAN YOU OPEN PAINT please", "intent": "open_application", "app_name": "paint"}
+{"text": "ope youtube and search for yoga for beginners", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "launch the microsoft word app...", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "youtube search for web scraping python please", "intent": "youtube_search", "query": "web scraping python"}
+{"text": "bring up snipping tool...", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "read this pdf data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "Start Notepad", "intent": "open_application", "app_name": "notepad"}
+{"text": "what is in this pdf analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "new task complete assignment", "intent": "create_task", "task": "complete assignment"}
+{"text": "Create A Reminder For Write Api Documentation", "intent": "create_task", "task": "write api documentation"}
+{"text": "push to ml-model on github", "intent": "github_push", "repo": "ml-model"}
+{"text": "Can You Search Motivational Speeches On Youtube", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "setup github repo mj-assistant.", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "Make A taks To Complete Assignment!", "intent": "create_task", "task": "complete assignment"}
+{"text": "find kubernetes guide information please", "intent": "google_search", "query": "kubernetes guide"}
+{"text": "hey mj contact john@gmail.com by email", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "push latest commit to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "hey get latest from my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "PDF ANALYSIS RESUME.PDF?", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "initialize github repository my-portfolio please", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "git pull ai-chatbot...", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "yo remember my blockchain basics", "intent": "remember_fact", "fact": "blockchain basics"}
+{"text": "push changes to ml-model", "intent": "github_push", "repo": "ml-model"}
+{"text": "email professor@university.edu about call the doctor?", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "create public repo my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "create task: buy groceries", "intent": "create_task", "task": "buy groceries"}
+{"text": "find me results for python tutorial", "intent": "google_search", "query": "python tutorial"}
+{"text": "start discord please", "intent": "open_application", "app_name": "discord"}
+{"text": "search for fastapi tutorial", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "add a task deploy to production!", "intent": "create_task", "task": "deploy to production"}
+{"text": "write email to friend@gmail.com regarding send weekly report", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "remind me to review pull request", "intent": "create_task", "task": "review pull request"}
+{"text": "google bollywood songs", "intent": "google_search", "query": "bollywood songs"}
+{"text": "push changes to mobile-app", "intent": "github_push", "repo": "mobile-app"}
+{"text": "remember this: how to invest...", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "new github repository mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "find information about kubernetes guide", "intent": "google_search", "query": "kubernetes guide"}
+{"text": "Make Github Repo My-Portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "Git Push To Mj-Assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "Look For Javascript Tips On Youtube", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "i need to attend team meeting add it to my tasks please", "intent": "create_task", "task": "attend team meeting"}
+{"text": "PUSH CHANGES TO AI-CHATBOT", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "Push Latest Commit To Ml-Model.", "intent": "github_push", "repo": "ml-model"}
+{"text": "set up a new github repo for ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "pdf analysis project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "create a new repository named ai-chatbot.", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "summarize pdf document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "email hr@company.org about submit project proposal?", "intent": "send_email", "email": "hr@company.org"}
+{"text": "look up coding music", "intent": "google_search", "query": "coding music"}
+{"text": "git pull fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "send team@startup.io an emaail", "intent": "send_email", "email": "team@startup.io"}
+{"text": "Summarize This Document Analysis.Xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "launch snipping tool application!", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "search the web for docker tutorial...", "intent": "google_search", "query": "docker tutorial"}
+{"text": "hey mj open slack app please", "intent": "open_application", "app_name": "slack"}
+{"text": "google trending songs please", "intent": "google_search", "query": "trending songs"}
+{"text": "can you open steam", "intent": "open_application", "app_name": "steam"}
+{"text": "hey mj my location is coding music", "intent": "remember_fact", "fact": "coding music"}
+{"text": "compose email to friend@gmail.com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "Add To My Todo List Deploy To Production", "intent": "create_task", "task": "deploy to production"}
+{"text": "create a task to read 20 pages", "intent": "create_task", "task": "read 20 pages"}
+{"text": "look for stock market tips on google", "intent": "google_search", "query": "stock market tips"}
+{"text": "add task review pull request high priority", "intent": "create_task", "task": "review pull request"}
+{"text": "set up a new github repo for mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "look fastapi tutorial up on google", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "remember my tamil songs", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "search the web for artificial intelligence", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "push latest commit to personal-blog?", "intent": "github_push", "repo": "personal-blog"}
+{"text": "search tamil songs please", "intent": "google_search", "query": "tamil songs"}
+{"text": "can you search react hooks on youtube", "intent": "youtube_search", "query": "react hooks"}
+{"text": "keep in mind that bollywood songs", "intent": "remember_fact", "fact": "bollywood songs"}
+{"text": "start the steam!", "intent": "open_application", "app_name": "steam"}
+{"text": "hey hey mj open calculator", "intent": "open_application", "app_name": "calculator"}
+{"text": "add a task update documentation", "intent": "create_task", "task": "update documentation"}
+{"text": "Send Email To Boss@Company.Com About Optimize Database?", "intent": "send_email", "email": "boss@company.com"}
+{"text": "push latest commit to mobile-app", "intent": "github_push", "repo": "mobile-app"}
+{"text": "Open Paint", "intent": "open_application", "app_name": "paint"}
+{"text": "look up computer vision on youtube", "intent": "youtube_search", "query": "computer vision"}
+{"text": "email mentor@college.edu the write unit tests details", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "Set A Task For Submit Project Proposal", "intent": "create_task", "task": "submit project proposal"}
+{"text": "add to my todo list pay electricity bill", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "start the microsoft word", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "pull updates from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "get latest from my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "Find Me How To Cook Pasta On Youtube", "intent": "youtube_search", "query": "how to cook pasta"}
+{"text": "launch snipping tool", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "add submit project proposal to my tasks", "intent": "create_task", "task": "submit project proposal"}
+{"text": "create github project ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "push changes to ecommerce-app...", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "email client@business.com about optimize database...", "intent": "send_email", "email": "client@business.com"}
+{"text": "draft an email to client@business.com", "intent": "send_email", "email": "client@business.com"}
+{"text": "keep in mind that web scraping python", "intent": "remember_fact", "fact": "web scraping python"}
+{"text": "Sync Code With Data-Pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "YOUTUBE COMPUTER VISION", "intent": "youtube_search", "query": "computer vision"}
+{"text": "new repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "Push Changes To Ecommerce-App", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "git pull my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "push code to ml-model repo", "intent": "github_push", "repo": "ml-model"}
+{"text": "hey mj new repo ml-model.", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "push code to ai-chatbot repo", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "search gym workout song.", "intent": "youtube_search", "query": "gym workout"}
+{"text": "hey pull updates from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "get latest from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "creat A New Repository Named Ecommerce-App", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "push changes to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "read document analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "get latest from fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "git push to react-dashboard!", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "pull from ml-model?", "intent": "github_pull", "repo": "ml-model"}
+{"text": "PUSH LATEST COMMIT TO ML-MODEL...", "intent": "github_push", "repo": "ml-model"}
+{"text": "Github New Repo Personal-Blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "look artificial intelligence up on google", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "my college is yoga for beginners", "intent": "remember_fact", "fact": "yoga for beginners"}
+{"text": "summarize pdf document.pdf.", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "compose a message to client@business.com", "intent": "send_email", "email": "client@business.com"}
+{"text": "git push to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "push latest commit to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "analyze report.pdf", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "hey youtube search programming memes", "intent": "youtube_search", "query": "programming memes"}
+{"text": "yo launch control panel application", "intent": "open_application", "app_name": "control panel"}
+{"text": "create todo exercise for 30 minutes?", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "remind me to exercise for 30 minutes", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "make github repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "Remember: Docker Tutorial", "intent": "remember_fact", "fact": "docker tutorial"}
+{"text": "mj push latest commit to react-dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "MY PROJECT IS GYM WORKOUT", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "Save That Tamil Songs", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "Create Public Repo Mobile-App", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "create repo ecommerce-app on github.", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "can you launch paint for me", "intent": "open_application", "app_name": "paint"}
+{"text": "remember this: stock market tips", "intent": "remember_fact", "fact": "stock market tips"}
+{"text": "search natural language processing on google", "intent": "google_search", "query": "natural language processing"}
+{"text": "my preference is bollywood songs", "intent": "remember_fact", "fact": "bollywood songs"}
+{"text": "launch calculator", "intent": "open_application", "app_name": "calculator"}
+{"text": "LOOK TED TALKS UP ON GOOGLE", "intent": "google_search", "query": "ted talks"}
+{"text": "new task call the doctor", "intent": "create_task", "task": "call the doctor"}
+{"text": "push changes to ml-model", "intent": "github_push", "repo": "ml-model"}
+{"text": "Git Pull Ml-Model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "search yoga for beginners on the internet", "intent": "google_search", "query": "yoga for beginners"}
+{"text": "Create A Reminder For Update Documentation", "intent": "create_task", "task": "update documentation"}
+{"text": "My Preference Is Docker Tutorial", "intent": "remember_fact", "fact": "docker tutorial"}
+{"text": "Start Calculator", "intent": "open_application", "app_name": "calculator"}
+{"text": "email boss@company.com about deploy to production!", "intent": "send_email", "email": "boss@company.com"}
+{"text": "email client@business.com the deploy to production details", "intent": "send_email", "email": "client@business.com"}
+{"text": "Look For Lofi Music On Google", "intent": "google_search", "query": "lofi music"}
+{"text": "fire up task manager...", "intent": "open_application", "app_name": "task manager"}
+{"text": "WHAT IS IN THIS PDF REPORT.PDF", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "create a reminder for deploy to production", "intent": "create_task", "task": "deploy to production"}
+{"text": "DRAFT AN EMAIL TO MENTOR@COLLEGE.EDU", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "email client@business.com about read 20 pages", "intent": "send_email", "email": "client@business.com"}
+{"text": "setup github repo ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "remember this: kubernetes guide", "intent": "remember_fact", "fact": "kubernetes guide"}
+{"text": "PULL FROM REACT-DASHBOARD", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "youtube how to invest", "intent": "youtube_search", "query": "how to invest"}
+{"text": "create an urgent task write unit tests", "intent": "create_task", "task": "write unit tests"}
+{"text": "send message to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "contact hr@company.org by email", "intent": "send_email", "email": "hr@company.org"}
+{"text": "SEARCH CODING MUSIC PLEASE", "intent": "google_search", "query": "coding music"}
+{"text": "github new repo fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "note that react hooks", "intent": "remember_fact", "fact": "react hooks"}
+{"text": "send an email about fix the login bug to team@startup.io", "intent": "send_email", "email": "team@startup.io"}
+{"text": "run vlc...", "intent": "open_application", "app_name": "vlc"}
+{"text": "create a private repo ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "run calculator?", "intent": "open_application", "app_name": "calculator"}
+{"text": "get latest from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "analyze notes.pdf document", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "contact professor@university.edu by email", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "RUN FILE EXPLORER", "intent": "open_application", "app_name": "file explorer"}
+{"text": "make a new tsak for setup ci cd pipeline", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "mj CONTACT HR@COMPANY.ORG BY emaail", "intent": "send_email", "email": "hr@company.org"}
+{"text": "git pull fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "note that computer vision", "intent": "remember_fact", "fact": "computer vision"}
+{"text": "I WORK AT NATURAL LANGUAGE PROCESSING", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "my preference is gym workout", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "new repo data-pipeline?", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "i work at blockchain basics", "intent": "remember_fact", "fact": "blockchain basics"}
+{"text": "create a github repo called react-dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "write email to client@business.com regarding optimize database", "intent": "send_email", "email": "client@business.com"}
+{"text": "sync code with mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "FIND INFORMATION ABOUT FASTAPI TUTORIAL.", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "hey I WORK AT ARTIFICIAL INTELLIGENCE", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "what does this pdf say document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "PULL UPDATES FROM MY-PORTFOLIO", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "PDF ANALYSIS DATA.CSV", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "Write To Hr@Company.Org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "new github repository mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "Remind Me To Call The Doctor", "intent": "create_task", "task": "call the doctor"}
+{"text": "yo search the web for web scraping python", "intent": "google_search", "query": "web scraping python"}
+{"text": "RUN PAINT.", "intent": "open_application", "app_name": "paint"}
+{"text": "hey create todo fix the login bug", "intent": "create_task", "task": "fix the login bug"}
+{"text": "add new task submit project proposal plz", "intent": "create_task", "task": "submit project proposal"}
+{"text": "what is stock market tips google it", "intent": "google_search", "query": "stock market tips"}
+{"text": "extract text from project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "remember my python tutorial!", "intent": "remember_fact", "fact": "python tutorial"}
+{"text": "compose a message to hr@company.org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "push latest commit to ecommerce-app", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "write to john@gmail.com?", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "get latest from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "TASK: ATTEND TEAM MEETING please", "intent": "create_task", "task": "attend team meeting"}
+{"text": "git push to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "EMAIL PROFESSOR@UNIVERSITY.EDU", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "Search Natural Language Processing On Youtube", "intent": "youtube_search", "query": "natural language processing"}
+{"text": "push code to personal-blog repo", "intent": "github_push", "repo": "personal-blog"}
+{"text": "launch steam", "intent": "open_application", "app_name": "steam"}
+{"text": "find me results for python tutorial", "intent": "google_search", "query": "python tutorial"}
+{"text": "Send Email To Support@Service.Com About Fix The Login Bug", "intent": "send_email", "email": "support@service.com"}
+{"text": "Email Mentor@College.Edu The Exercise For 30 Minutes Details", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "yo extract data from proposal.docx.", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "SYNC CODE WITH AI-CHATBOT", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "search how to invest please", "intent": "google_search", "query": "how to invest"}
+{"text": "my project is fastapi tutorial", "intent": "remember_fact", "fact": "fastapi tutorial"}
+{"text": "Get Latest From Ai-Chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "find data science course on youtube.", "intent": "youtube_search", "query": "data science course"}
+{"text": "my stack is stock market tips", "intent": "remember_fact", "fact": "stock market tips"}
+{"text": "store this fact: computer vision", "intent": "remember_fact", "fact": "computer vision"}
+{"text": "Can You Search Cricket Highlights On Youtube", "intent": "youtube_search", "query": "cricket highlights"}
+{"text": "git push to my-portfolio.", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "i work at deep learning", "intent": "remember_fact", "fact": "deep learning"}
+{"text": "git pull ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "PUSH CHANGES TO REACT-DASHBOARD", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "WHAT DOES THIS PDF SAY INVOICE.PDF", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "find information about yoga for beginners", "intent": "google_search", "query": "yoga for beginners"}
+{"text": "create a new repository named mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "FIND CODING MUSIC TUTORIAL ON YOUTUBE.", "intent": "youtube_search", "query": "coding music"}
+{"text": "extract text from data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "sync code with mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "can you google machine learning basics", "intent": "google_search", "query": "machine learning basics"}
+{"text": "look for machine learning basics on google", "intent": "google_search", "query": "machine learning basics"}
+{"text": "create github project my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "look for funny videos on google!", "intent": "google_search", "query": "funny videos"}
+{"text": "search for cricket highlights online", "intent": "google_search", "query": "cricket highlights"}
+{"text": "can you google natural language processing?", "intent": "google_search", "query": "natural language processing"}
+{"text": "create a private repo ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "create task: buy groceries please", "intent": "create_task", "task": "buy groceries"}
+{"text": "send message to hr@company.org!", "intent": "send_email", "email": "hr@company.org"}
+{"text": "note that react hooks", "intent": "remember_fact", "fact": "react hooks"}
+{"text": "make github repo data-pipeline", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "CREATE GITHUB PROJECT MJ-ASSISTANT", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "Create Github Project Ai-Chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "pull updates from react-dashboard.", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "i want to watch best movies 2024", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "push to data-pipeline on github", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "my project is funny videos", "intent": "remember_fact", "fact": "funny videos"}
+{"text": "my project is lofi music...", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "add task optimize database high priority", "intent": "create_task", "task": "optimize database"}
+{"text": "my project is computer vision", "intent": "remember_fact", "fact": "computer vision"}
+{"text": "yo schedule task optimize database", "intent": "create_task", "task": "optimize database"}
+{"text": "CREATE A REMINDER FOR BUY GROCERIES", "intent": "create_task", "task": "buy groceries"}
+{"text": "Push To Mobile-App On Github", "intent": "github_push", "repo": "mobile-app"}
+{"text": "mj Search React Hooks In Google", "intent": "google_search", "query": "react hooks"}
+{"text": "Push Changes To Ecommerce-App", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "analyze document.pdf document", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "Open Youtube Search Artificial Intelligence", "intent": "youtube_search", "query": "artificial intelligence"}
+{"text": "create a task to refactor auth module.", "intent": "create_task", "task": "refactor auth module"}
+{"text": "start vs code please", "intent": "open_application", "app_name": "vs code"}
+{"text": "pdf analysis resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "go to youtube and search trending songs.", "intent": "youtube_search", "query": "trending songs"}
+{"text": "Push Code To Personal-Blog Repo", "intent": "github_push", "repo": "personal-blog"}
+{"text": "I Work At Latest News", "intent": "remember_fact", "fact": "latest news"}
+{"text": "create a private repo react-dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "push changes to ai-chatbot", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "push changes to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "sync code with my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "PUSH LATEST COMMIT TO MOBILE-APP", "intent": "github_push", "repo": "mobile-app"}
+{"text": "i work at natural language processing", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "serch for funny videos", "intent": "google_search", "query": "funny videos"}
+{"text": "push changes to fastapi-backend?", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "SYNC CODE WITH FASTAPI-BACKEND", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "task: review pull request", "intent": "create_task", "task": "review pull request"}
+{"text": "add a task write api documentation", "intent": "create_task", "task": "write api documentation"}
+{"text": "git pull ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "make github repo fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "read document document.pdf...", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "search fastapi tutorial please", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "watch gym workout on youtube", "intent": "youtube_search", "query": "gym workout"}
+{"text": "read this pdf notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "GIT PULL FASTAPI-BACKEND", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "add a taks buy groceries", "intent": "create_task", "task": "buy groceries"}
+{"text": "Git Pull My-Portfolio.", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "add write api documentation to my to-do", "intent": "create_task", "task": "write api documentation"}
+{"text": "fire up terminal", "intent": "open_application", "app_name": "terminal"}
+{"text": "pdf analysis project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "can you open control panel", "intent": "open_application", "app_name": "control panel"}
+{"text": "Push Latest Commit To Ai-Chatbot", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "yo create github project fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "open the zoom app", "intent": "open_application", "app_name": "zoom"}
+{"text": "send professor@university.edu an email", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "make a task to refactor auth module", "intent": "create_task", "task": "refactor auth module"}
+{"text": "google lofi music for me", "intent": "google_search", "query": "lofi music"}
+{"text": "send recruiter@tech.com an email!", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "find me results for personal finance", "intent": "google_search", "query": "personal finance"}
+{"text": "make a task to exercise for 30 minutes", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "git push to ai-chatbot", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "find how to invest movie trailer on youtube", "intent": "youtube_search", "query": "how to invest"}
+{"text": "make github repo ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "new repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "youtube search for kannada songs please", "intent": "youtube_search", "query": "kannada songs"}
+{"text": "Send Message To Client@Business.Com please", "intent": "send_email", "email": "client@business.com"}
+{"text": "initialize github repository mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "FIND JAVASCRIPT TIPS TUTORIAL ON YOUTUBE", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "I Need To Read 20 Pages Add It To My Tasks", "intent": "create_task", "task": "read 20 pages"}
+{"text": "Push Latest Commit To Ai-Chatbot", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "send email to team@startup.io about fix the login bug", "intent": "send_email", "email": "team@startup.io"}
+{"text": "google fastapi tutorial", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "google search deep learning", "intent": "google_search", "query": "deep learning"}
+{"text": "YOUTUBE YOGA FOR BEGINNERS", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "Extract Data From Document.Pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "hey make a new repo ecommerce-app please", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "What Does This Pdf Say Proposal.Docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "google react hooks for me", "intent": "google_search", "query": "react hooks"}
+{"text": "fire up control panel", "intent": "open_application", "app_name": "control panel"}
+{"text": "yo open powershell", "intent": "open_application", "app_name": "powershell"}
+{"text": "can you google tamil songs", "intent": "google_search", "query": "tamil songs"}
+{"text": "analyze document.pdf document", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "schedule task send weekly report", "intent": "create_task", "task": "send weekly report"}
+{"text": "open vlc program.", "intent": "open_application", "app_name": "vlc"}
+{"text": "SYNC CODE WITH DATA-PIPELINE please", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "get latest from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "LAUNCH PAINT", "intent": "open_application", "app_name": "paint"}
+{"text": "send team@startup.io an email.", "intent": "send_email", "email": "team@startup.io"}
+{"text": "i need to setup ci cd pipeline add it to my tasks", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "sync code with mj-assistant...", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "my stack is how to invest please", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "create a new repository named fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "email support@service.com about update documentation", "intent": "send_email", "email": "support@service.com"}
+{"text": "Schedule Task Buy Groceries please", "intent": "create_task", "task": "buy groceries"}
+{"text": "search for kannada songs", "intent": "google_search", "query": "kannada songs"}
+{"text": "search how to invest on google", "intent": "google_search", "query": "how to invest"}
+{"text": "hey mj oepn discord.", "intent": "open_application", "app_name": "discord"}
+{"text": "analyze project.pdf document.", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "push code to react-dashboard repo", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "find stock market tips on youtube", "intent": "youtube_search", "query": "stock market tips"}
+{"text": "youtube search for programming memes please...", "intent": "youtube_search", "query": "programming memes"}
+{"text": "mj SEND AN EMAIL TO CLIENT@BUSINESS.COM", "intent": "send_email", "email": "client@business.com"}
+{"text": "save that bollywood songs", "intent": "remember_fact", "fact": "bollywood songs"}
+{"text": "pull updates from personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "earch for web scraping python on youtube please", "intent": "youtube_search", "query": "web scraping python"}
+{"text": "What Is In This Pdf Project.Pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "draft an email to friend@gmail.com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "Read This Pdf Proposal.Docx please", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "i am preparing for cricket highlights", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "my project is lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "PULL UPDATES FROM REACT-DASHBOARD", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "SYNC CODE WITH DATA-PIPELINE", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "push changes to personal-blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "Create A Private Repo Personal-Blog please", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "Email Support@Service.Com", "intent": "send_email", "email": "support@service.com"}
+{"text": "ADD REFACTOR AUTH MODULE TO MY TASKS", "intent": "create_task", "task": "refactor auth module"}
+{"text": "pull from ecommerce-app please", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "create a reminder for update documentation", "intent": "create_task", "task": "update documentation"}
+{"text": "push code to mj-assistant repo", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "WRITE AN EMAIL TO BOSS@COMPANY.COM", "intent": "send_email", "email": "boss@company.com"}
+{"text": "get latest from personal-blog.", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "hey create repo data-pipeline on github", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "pull from data-pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "read document resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "google search docker tutorial", "intent": "google_search", "query": "docker tutorial"}
+{"text": "Open Youtube Search Trending Songs", "intent": "youtube_search", "query": "trending songs"}
+{"text": "get latest from react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "send an email about complete assignment to team@startup.io!", "intent": "send_email", "email": "team@startup.io"}
+{"text": "Github New Repo React-Dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "Hey Mj Open Powershell please", "intent": "open_application", "app_name": "powershell"}
+{"text": "Sync Code With Fastapi-Backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "get latest from personal-blog.", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "yo Read This Pdf Specification.Docx.", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "go to youtube and search cricket highlights?", "intent": "youtube_search", "query": "cricket highlights"}
+{"text": "Make A Task To Submit Project Proposal", "intent": "create_task", "task": "submit project proposal"}
+{"text": "yo read this pdf notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "mj Send An Email To Friend@Gmail.Com?", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "new repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "sync code with personal-blog.", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "Open Control Panel For Me", "intent": "open_application", "app_name": "control panel"}
+{"text": "I Need To Deploy To Production Add It To My Tasks", "intent": "create_task", "task": "deploy to production"}
+{"text": "PUSH CODE TO MY-PORTFOLIO REPO", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "open youtube search personal finance", "intent": "youtube_search", "query": "personal finance"}
+{"text": "GIT PULL ML-MODEL...", "intent": "github_pull", "repo": "ml-model"}
+{"text": "MAKE A NEW REPO DATA-PIPELINE", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "git push to personal-blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "Send An Email To Client@Business.Com", "intent": "send_email", "email": "client@business.com"}
+{"text": "Remember My Javascript Tips please", "intent": "remember_fact", "fact": "javascript tips"}
+{"text": "my location is blockchain basics", "intent": "remember_fact", "fact": "blockchain basics"}
+{"text": "pull from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "analyze specification.docx document", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "push code to data-pipeline repo", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "make a task to read 20 pages", "intent": "create_task", "task": "read 20 pages"}
+{"text": "fire up chrome", "intent": "open_application", "app_name": "chrome"}
+{"text": "PUSH TO DATA-PIPELINE ON GITHUB please", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "Find Me Results For Best Movies 2024", "intent": "google_search", "query": "best movies 2024"}
+{"text": "what does this pdf say analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "can you launch settings for me please", "intent": "open_application", "app_name": "settings"}
+{"text": "summarize pdf report.pdf please", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "can you google tamil songs", "intent": "google_search", "query": "tamil songs"}
+{"text": "sync code with data-pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "Remember: Docker Tutorial", "intent": "remember_fact", "fact": "docker tutorial"}
+{"text": "push changes to ecommerce-app", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "i need to find coding music", "intent": "google_search", "query": "coding music"}
+{"text": "new repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "what does this pdf say specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "create a private repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "search deep learning on the internet", "intent": "google_search", "query": "deep learning"}
+{"text": "remind me to learn docker", "intent": "create_task", "task": "learn docker"}
+{"text": "create public repo ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "get latest from ai-chatbot please", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "My College Is Personal Finance", "intent": "remember_fact", "fact": "personal finance"}
+{"text": "what does this pdf say project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "REMEMBER THIS: GYM WORKOUT", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "Pull From Mobile-App...", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "create public repo ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "look artificial intelligence up on google?", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "push to ml-model on github", "intent": "github_push", "repo": "ml-model"}
+{"text": "get latest from fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "summarize pdf data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "send email to john@gmail.com about pay electricity bill", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "hey github new repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "email boss@company.com about pay electricity bill?", "intent": "send_email", "email": "boss@company.com"}
+{"text": "analyze proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "push code to react-dashboard repo", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "create github project my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "push code to ecommerce-app repo", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "schedule task write api documentation", "intent": "create_task", "task": "write api documentation"}
+{"text": "add a task pay electricity bill?", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "write to john@gmail.com...", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "setup github repo fastapi-backend?", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "i need to deploy to production add it to my tasks", "intent": "create_task", "task": "deploy to production"}
+{"text": "my college is stock market tips", "intent": "remember_fact", "fact": "stock market tips"}
+{"text": "add to my todo list send weekly report", "intent": "create_task", "task": "send weekly report"}
+{"text": "Create A Reminder For Prepare Presentation", "intent": "create_task", "task": "prepare presentation"}
+{"text": "I NEED TO REFACTOR AUTH MODULE ADD IT TO MY TASKS", "intent": "create_task", "task": "refactor auth module"}
+{"text": "pull updates from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "initialize github repository ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "find motivational speeches tutorial on youtube", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "look for stock market tips on youtube", "intent": "youtube_search", "query": "stock market tips"}
+{"text": "get latest from ecommerce-app please", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "play kannada songs video", "intent": "youtube_search", "query": "kannada songs"}
+{"text": "Watch Trending Songs On ytube", "intent": "youtube_search", "query": "trending songs"}
+{"text": "write an email to client@business.com", "intent": "send_email", "email": "client@business.com"}
+{"text": "hey compose email to support@service.com!", "intent": "send_email", "email": "support@service.com"}
+{"text": "create task: fix the login bug", "intent": "create_task", "task": "fix the login bug"}
+{"text": "analyze notes.pdf document?", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "new task buy groceries", "intent": "create_task", "task": "buy groceries"}
+{"text": "push latest commit to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "task: write api documentation...", "intent": "create_task", "task": "write api documentation"}
+{"text": "mj google search kannada songs please", "intent": "google_search", "query": "kannada songs"}
+{"text": "i work at ted talks", "intent": "remember_fact", "fact": "ted talks"}
+{"text": "START UP SPOTIFY", "intent": "open_application", "app_name": "spotify"}
+{"text": "Send An Email About Buy Groceries To Friend@Gmail.Com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "create todo fix the login bug", "intent": "create_task", "task": "fix the login bug"}
+{"text": "git pull mobile-app.", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "hey mj keep in mind that new music 2024", "intent": "remember_fact", "fact": "new music 2024"}
+{"text": "add exercise for 30 minutes to my tasks", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "note that how to cook pasta", "intent": "remember_fact", "fact": "how to cook pasta"}
+{"text": "task: attend team meeting", "intent": "create_task", "task": "attend team meeting"}
+{"text": "initialize repo fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "Push Changes To Personal-Blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "remember this: lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "git pull data-pipeline!", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "can you open control panel", "intent": "open_application", "app_name": "control panel"}
+{"text": "craete a new repository named fastapi-backend...", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "can you google web scraping python", "intent": "google_search", "query": "web scraping python"}
+{"text": "git push to mobile-app", "intent": "github_push", "repo": "mobile-app"}
+{"text": "get latest from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "sync code with data-pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "mj summarize pdf data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "CREATE A PRIVATE REPO DATA-PIPELINE!", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "initialize repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "Compose A Message To Client@Business.Com", "intent": "send_email", "email": "client@business.com"}
+{"text": "email client@business.com the call the doctor details", "intent": "send_email", "email": "client@business.com"}
+{"text": "Push Latest Commit To Ml-Model", "intent": "github_push", "repo": "ml-model"}
+{"text": "remember that my name is cricket highlights please", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "GET LATEST FROM MJ-ASSISTANT", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "Sync Code With Personal-Blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "i need information on machine learning basics please", "intent": "google_search", "query": "machine learning basics"}
+{"text": "make a task to review pull request", "intent": "create_task", "task": "review pull request"}
+{"text": "I NEED INFORMATION ON NEW MUSIC 2024", "intent": "google_search", "query": "new music 2024"}
+{"text": "mj create public repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "git push to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "start notepad...", "intent": "open_application", "app_name": "notepad"}
+{"text": "search the web for machine learning basics please", "intent": "google_search", "query": "machine learning basics"}
+{"text": "mj search machine learning basics please", "intent": "google_search", "query": "machine learning basics"}
+{"text": "extract text from document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "git pull personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "push to fastapi-backend on github", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "remember this: artificial intelligence", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "pull updates from data-pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "search best movies 2024 on youtube", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "EXTRACT TEXT FROM SPECIFICATION.DOCX", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "search deep learning song please", "intent": "youtube_search", "query": "deep learning"}
+{"text": "extract text from specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "NOTE THAT ARTIFICIAL INTELLIGENCE", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "mj pull from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "my college is motivational speeches", "intent": "remember_fact", "fact": "motivational speeches"}
+{"text": "yo push code to ecommerce-app repo", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "Open Excel App Please!", "intent": "open_application", "app_name": "excel"}
+{"text": "i need to send weekly report add it to my tasks please", "intent": "create_task", "task": "send weekly report"}
+{"text": "Push Code To Ecommerce-App Repo", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "analyze specification.docx!", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "new github repository mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "read document document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "email professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "MY GITHUB IS CODING MUSIC", "intent": "remember_fact", "fact": "coding music"}
+{"text": "Contact Hr@Company.Org By Email", "intent": "send_email", "email": "hr@company.org"}
+{"text": "send email to friend@gmail.com about refactor auth module", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "schedule tsak complete assignment", "intent": "create_task", "task": "complete assignment"}
+{"text": "make a new task for send weekly report", "intent": "create_task", "task": "send weekly report"}
+{"text": "PUSH CODE TO MY-PORTFOLIO REPO", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "push latest commit to react-dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "Git Pull Mj-Assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "push changes to react-dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "mj open youtube search javascript tips", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "hey mj look up bollywood songs on youtube", "intent": "youtube_search", "query": "bollywood songs"}
+{"text": "pull from personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "search for web scraping python on youtube please", "intent": "youtube_search", "query": "web scraping python"}
+{"text": "save that fastapi tutorial", "intent": "remember_fact", "fact": "fastapi tutorial"}
+{"text": "hey new github repository fastapi-backend...", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "start vs code", "intent": "open_application", "app_name": "vs code"}
+{"text": "new repo ai-chatbot...", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "HEY MJ serch YOUTUBE FOR ARTIFICIAL INTELLIGENCE", "intent": "youtube_search", "query": "artificial intelligence"}
+{"text": "GET LATEST FROM MY-PORTFOLIO.", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "go to youtube and search machine learning basics", "intent": "youtube_search", "query": "machine learning basics"}
+{"text": "PULL UPDATES FROM AI-CHATBOT", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "search best movies 2024 on google", "intent": "google_search", "query": "best movies 2024"}
+{"text": "Remind Me To Write Unit Tests", "intent": "create_task", "task": "write unit tests"}
+{"text": "google motivational speeches", "intent": "google_search", "query": "motivational speeches"}
+{"text": "START UP ZOOM", "intent": "open_application", "app_name": "zoom"}
+{"text": "write email to mentor@college.edu regarding buy groceries", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "OPEN SNIPPING TOOL FOR ME?", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "initialize github repository fastapi-backend.", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "youtube search for lofi music please.", "intent": "youtube_search", "query": "lofi music"}
+{"text": "Send Email To Client@Business.Com About Submit Project Proposal", "intent": "send_email", "email": "client@business.com"}
+{"text": "SUMMARIZE PDF RESUME.PDF", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "Create A Reminder For Setup Ci Cd Pipeline", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "EMAIL JOHN@GMAIL.COM THE BUY GROCERIES DETAILS", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "Bring Up Settings?", "intent": "open_application", "app_name": "settings"}
+{"text": "hey put submit project proposal on my tsak list", "intent": "create_task", "task": "submit project proposal"}
+{"text": "get discord running", "intent": "open_application", "app_name": "discord"}
+{"text": "Push To Ai-Chatbot On Github", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "email support@service.com about write unit tests please", "intent": "send_email", "email": "support@service.com"}
+{"text": "write email to professor@university.edu regarding read 20 pages", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "go to youtube and search motivational speeches", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "Add Task Setup Ci Cd Pipeline High Priority", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "my project is fastapi tutorial", "intent": "remember_fact", "fact": "fastapi tutorial"}
+{"text": "task: setup ci cd pipeline", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "find me results for coding music", "intent": "google_search", "query": "coding music"}
+{"text": "read this pdf analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "youtube search coding music", "intent": "youtube_search", "query": "coding music"}
+{"text": "Pull Updates From React-Dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "push code to mj-assistant repo", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "analyze proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "start up file explorer", "intent": "open_application", "app_name": "file explorer"}
+{"text": "my project is latest news", "intent": "remember_fact", "fact": "latest news"}
+{"text": "google how to invest", "intent": "google_search", "query": "how to invest"}
+{"text": "open zoom app please", "intent": "open_application", "app_name": "zoom"}
+{"text": "contact professor@university.edu by email", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "pdf analysis notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "Send An Email To Support@Service.Com", "intent": "send_email", "email": "support@service.com"}
+{"text": "seach Bollywood Songs Please", "intent": "google_search", "query": "bollywood songs"}
+{"text": "yo create a new repository named ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "get latest from mobile-app please", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "LAUNCH CALCULATOR", "intent": "open_application", "app_name": "calculator"}
+{"text": "new task review pull request.", "intent": "create_task", "task": "review pull request"}
+{"text": "write email to recruiter@tech.com regarding learn docker", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "hey mj search youtube for react hooks", "intent": "youtube_search", "query": "react hooks"}
+{"text": "my project is web scraping python?", "intent": "remember_fact", "fact": "web scraping python"}
+{"text": "pull updates from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "summarize pdf resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "send an email about review pull request to boss@company.com", "intent": "send_email", "email": "boss@company.com"}
+{"text": "mj find me motivational speeches on youtube", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "LAUNCH SLACK", "intent": "open_application", "app_name": "slack"}
+{"text": "push latest commit to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "email boss@company.com about attend team meeting", "intent": "send_email", "email": "boss@company.com"}
+{"text": "Summarize Pdf Resume.Pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "make github repo ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "play gym workout video", "intent": "youtube_search", "query": "gym workout"}
+{"text": "hey mj compose a message to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "Google Motivational Speeches", "intent": "google_search", "query": "motivational speeches"}
+{"text": "i need to optimize database add it to my tsaks", "intent": "create_task", "task": "optimize database"}
+{"text": "analyze specification.docx document", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "my location is machine learning basics?", "intent": "remember_fact", "fact": "machine learning basics"}
+{"text": "i am preparing for deep learning", "intent": "remember_fact", "fact": "deep learning"}
+{"text": "search programming memes on google", "intent": "google_search", "query": "programming memes"}
+{"text": "email client@business.com the review pull request details", "intent": "send_email", "email": "client@business.com"}
+{"text": "put fix the login bug on my task list", "intent": "create_task", "task": "fix the login bug"}
+{"text": "what does this pdf say resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "Add Task Prepare Presentation High Priority", "intent": "create_task", "task": "prepare presentation"}
+{"text": "git pull ecommerce-app please", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "RESEARCH BEST MOVIES 2024 please", "intent": "google_search", "query": "best movies 2024"}
+{"text": "extract text from data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "start the microsoft word", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "pull from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "create public repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "Search For Web Scraping Python", "intent": "google_search", "query": "web scraping python"}
+{"text": "what does this pdf say invoice.pdf!", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "Make Github Repo My-Portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "pdf analysis specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "get settings running", "intent": "open_application", "app_name": "settings"}
+{"text": "what is in this pdf analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "keep in mind that natural language processing", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "I NEED INFORMATION ON JAVASCRIPT TIPS", "intent": "google_search", "query": "javascript tips"}
+{"text": "find me gym workout on youtube", "intent": "youtube_search", "query": "gym workout"}
+{"text": "git push to data-pipeline.", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "Google Best Movies 2024 For Me", "intent": "google_search", "query": "best movies 2024"}
+{"text": "new repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "DRAFT AN EMAIL TO BOSS@COMPANY.COM", "intent": "send_email", "email": "boss@company.com"}
+{"text": "mj RESEARCH PYTHON TUTORIAL", "intent": "google_search", "query": "python tutorial"}
+{"text": "get file explorer running", "intent": "open_application", "app_name": "file explorer"}
+{"text": "launch the calculator app", "intent": "open_application", "app_name": "calculator"}
+{"text": "send an email to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "sync code with personal-blog?", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "research web scraping python please", "intent": "google_search", "query": "web scraping python"}
+{"text": "put pay electricity bill on my taks list", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "summarize this document proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "yo get latest from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "mj find me bollywood songs on youtube", "intent": "youtube_search", "query": "bollywood songs"}
+{"text": "search web scraping python please", "intent": "google_search", "query": "web scraping python"}
+{"text": "send client@business.com an email", "intent": "send_email", "email": "client@business.com"}
+{"text": "create a new repository named mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "pull from fastapi-backend!", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "yo add to my todo list send weekly report", "intent": "create_task", "task": "send weekly report"}
+{"text": "pdf analysis invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "launch the excel app", "intent": "open_application", "app_name": "excel"}
+{"text": "start up file explorer", "intent": "open_application", "app_name": "file explorer"}
+{"text": "find stock market tips movie trailer on youtube", "intent": "youtube_search", "query": "stock market tips"}
+{"text": "send an emaail to john@gmail.com", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "start excel please", "intent": "open_application", "app_name": "excel"}
+{"text": "find ted talks movie trailer on youtube", "intent": "youtube_search", "query": "ted talks"}
+{"text": "bring up powershell", "intent": "open_application", "app_name": "powershell"}
+{"text": "CREATE A REMINDER FOR OPTIMIZE DATABASE please", "intent": "create_task", "task": "optimize database"}
+{"text": "search javascript tips on youtube", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "CREATE PUBLIC REPO DATA-PIPELINE", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "remember: funny videos", "intent": "remember_fact", "fact": "funny videos"}
+{"text": "Pull Updates From Ecommerce-App...", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "remember: lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "SEND AN EMAIL TO CLIENT@BUSINESS.COM...", "intent": "send_email", "email": "client@business.com"}
+{"text": "create repo mj-assistant on github", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "my location is tamil songs", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "Can You Launch Control Panel For Me", "intent": "open_application", "app_name": "control panel"}
+{"text": "my stack is latest news", "intent": "remember_fact", "fact": "latest news"}
+{"text": "Look Up Personal Finance On Youtube.", "intent": "youtube_search", "query": "personal finance"}
+{"text": "find deep learning information...", "intent": "google_search", "query": "deep learning"}
+{"text": "crate GITHUB PROJECT PERSONAL-BLOG", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "pdf analysis proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "push latest commit to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "Analyze Report.Pdf Document", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "CREATE GITHUB PROJECT DATA-PIPELINE", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "extract text from data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "mj find me funny videos on youtube...", "intent": "youtube_search", "query": "funny videos"}
+{"text": "PUSH CODE TO AI-CHATBOT REPO", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "PUSH LATEST COMMIT TO MJ-ASSISTANT", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "open youtube search yoga for beginners", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "setup github repo data-pipeline!", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "start up calculator", "intent": "open_application", "app_name": "calculator"}
+{"text": "send an emial to support@service.com?", "intent": "send_email", "email": "support@service.com"}
+{"text": "Compose Email To Support@Service.Com", "intent": "send_email", "email": "support@service.com"}
+{"text": "find kubernetes guide online", "intent": "google_search", "query": "kubernetes guide"}
+{"text": "i need to call the doctor add it to my tasks.", "intent": "create_task", "task": "call the doctor"}
+{"text": "push code to mj-assistant repo", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "find data science course song on youtube", "intent": "youtube_search", "query": "data science course"}
+{"text": "start the terminal.", "intent": "open_application", "app_name": "terminal"}
+{"text": "I NEED TO FIND DATA SCIENCE COURSE please", "intent": "google_search", "query": "data science course"}
+{"text": "what is in this pdf project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "look for best movies 2024 on google", "intent": "google_search", "query": "best movies 2024"}
+{"text": "pull from my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "search for javascript tips", "intent": "google_search", "query": "javascript tips"}
+{"text": "git pull mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "Open The Snipping Tool App?", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "Email Friend@Gmail.Com The Learn Docker Details.", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "summarize this document report.pdf...", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "schedule task deploy to production", "intent": "create_task", "task": "deploy to production"}
+{"text": "look up how to cook pasta on youtube?", "intent": "youtube_search", "query": "how to cook pasta"}
+{"text": "look for stock market tips on google", "intent": "google_search", "query": "stock market tips"}
+{"text": "pull from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "pull updates from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "GIT PULL MY-PORTFOLIO", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "push to fastapi-backend on github", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "put optimize database on my task list", "intent": "create_task", "task": "optimize database"}
+{"text": "what is web scraping python goggle it", "intent": "google_search", "query": "web scraping python"}
+{"text": "search for trending songs online...", "intent": "google_search", "query": "trending songs"}
+{"text": "Launch Chrome", "intent": "open_application", "app_name": "chrome"}
+{"text": "store this fact: cricket highlights", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "note that latest news", "intent": "remember_fact", "fact": "latest news"}
+{"text": "what does this pdf say notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "hey push changes to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "hey search gym workout on the internet", "intent": "google_search", "query": "gym workout"}
+{"text": "create public repo my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "can you launch spotify for me", "intent": "open_application", "app_name": "spotify"}
+{"text": "tsk: Prepare Presentation please", "intent": "create_task", "task": "prepare presentation"}
+{"text": "remember my lofi music please", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "search the web for tamil songs", "intent": "google_search", "query": "tamil songs"}
+{"text": "yo create a new repository named mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "hey mj opne youtube and search for yoga for beginners", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "git push to mobile-app", "intent": "github_push", "repo": "mobile-app"}
+{"text": "pull from mj-assistant.", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "hey mj remind me to write unit tests", "intent": "create_task", "task": "write unit tests"}
+{"text": "pull from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "push to react-dashboard on github", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "add new task prepare presentation please", "intent": "create_task", "task": "prepare presentation"}
+{"text": "youtube search latest news", "intent": "youtube_search", "query": "latest news"}
+{"text": "push to personal-blog on github", "intent": "github_push", "repo": "personal-blog"}
+{"text": "read document resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "read this pdf specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "My College Is Data Science Course", "intent": "remember_fact", "fact": "data science course"}
+{"text": "Search The Web For New Music 2024...", "intent": "google_search", "query": "new music 2024"}
+{"text": "Look For Computer Vision On Google.", "intent": "google_search", "query": "computer vision"}
+{"text": "Push Latest Commit To Ml-Model", "intent": "github_push", "repo": "ml-model"}
+{"text": "summarize pdf proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "git push to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "get latest from react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "git pull ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "SET UP A NEW GITHUB REPO FOR DATA-PIPELINE", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "Read This Pdf Proposal.Docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "find new music 2024 song on youtube", "intent": "youtube_search", "query": "new music 2024"}
+{"text": "My Preference Is Ted Talks", "intent": "remember_fact", "fact": "ted talks"}
+{"text": "Can You Google Programming Memes", "intent": "google_search", "query": "programming memes"}
+{"text": "sync code with personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "create github project personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "make github repo ml-model!", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "git push to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "my project is how to invest", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "Make A New Repo Fastapi-Backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "my location is programming memes", "intent": "remember_fact", "fact": "programming memes"}
+{"text": "create public repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "mj find kubernetes guide tutorial on ytube", "intent": "youtube_search", "query": "kubernetes guide"}
+{"text": "create github project personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "Create Public Repo My-Portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "CAN YOU GOOGLE ARTIFICIAL INTELLIGENCE", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "push to mobile-app on github", "intent": "github_push", "repo": "mobile-app"}
+{"text": "hey find natural language processing song on youtube", "intent": "youtube_search", "query": "natural language processing"}
+{"text": "summarize pdf project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "pull updates from my-portfolio...", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "github new repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "pull updates from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "REMEMBER THIS: ARTIFICIAL INTELLIGENCE", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "remember this: how to cook pasta", "intent": "remember_fact", "fact": "how to cook pasta"}
+{"text": "i need information on latest news", "intent": "google_search", "query": "latest news"}
+{"text": "git push to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "look up blockchain basics on youtube", "intent": "youtube_search", "query": "blockchain basics"}
+{"text": "open discord for me", "intent": "open_application", "app_name": "discord"}
+{"text": "write an email to team@startup.io", "intent": "send_email", "email": "team@startup.io"}
+{"text": "pdf analysis document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "start spotify please", "intent": "open_application", "app_name": "spotify"}
+{"text": "opne discord app please", "intent": "open_application", "app_name": "discord"}
+{"text": "mj Pull From Fastapi-Backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "Launch The Discord App", "intent": "open_application", "app_name": "discord"}
+{"text": "make a new tsak for prepare presentation.", "intent": "create_task", "task": "prepare presentation"}
+{"text": "ANALYZE DATA.CSV DOCUMENT", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "open youtube and search for motivational speeches", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "hey pull updates from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "yo analyze notes.pdf document", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "push code to my-portfolio repo", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "launch spotify.", "intent": "open_application", "app_name": "spotify"}
+{"text": "compose email to support@service.com", "intent": "send_email", "email": "support@service.com"}
+{"text": "add task deploy to production high priority", "intent": "create_task", "task": "deploy to production"}
+{"text": "sync code with personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "launch excel application", "intent": "open_application", "app_name": "excel"}
+{"text": "BRING UP VLC", "intent": "open_application", "app_name": "vlc"}
+{"text": "get latest from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "hey mj Write Email To Client@Business.Com Regarding Submit Project Proposal", "intent": "send_email", "email": "client@business.com"}
+{"text": "send john@gmail.com an email", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "hey mj search youtube for web scraping python...", "intent": "youtube_search", "query": "web scraping python"}
+{"text": "analyze invoice.pdf document", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "push to fastapi-backend on github", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "hey mj seach youtube for javascript tips", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "mj New Repo Mobile-App", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "find me results for stock market tips", "intent": "google_search", "query": "stock market tips"}
+{"text": "i work at bollywood songs", "intent": "remember_fact", "fact": "bollywood songs"}
+{"text": "hey make a new task for pay electricity bill", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "create a new repository named mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "contact boss@company.com by email", "intent": "send_email", "email": "boss@company.com"}
+{"text": "Fire Up Calculator", "intent": "open_application", "app_name": "calculator"}
+{"text": "look for best movies 2024 on youtube", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "ADD TASK COMPLETE ASSIGNMENT HIGH PRIORITY", "intent": "create_task", "task": "complete assignment"}
+{"text": "Get Latest From Personal-Blog!", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "search for natural language processing", "intent": "google_search", "query": "natural language processing"}
+{"text": "Youtube serach Python Tutorial", "intent": "youtube_search", "query": "python tutorial"}
+{"text": "hey mj open powerpoint", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "remember this: yoga for beginners please", "intent": "remember_fact", "fact": "yoga for beginners"}
+{"text": "Pull From Mobile-App", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "MY GITHUB IS TAMIL SONGS", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "Push Code To Mj-Assistant Repo", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "create github project ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "make a task to attend team meeting!", "intent": "create_task", "task": "attend team meeting"}
+{"text": "contact friend@gmail.com by email", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "seach lofi music song", "intent": "youtube_search", "query": "lofi music"}
+{"text": "look for stock market tips on googel", "intent": "google_search", "query": "stock market tips"}
+{"text": "READ DOCUMENT NOTES.PDF", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "Compose A Message To Friend@Gmail.Com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "push to data-pipeline on github", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "serach new music 2024 please!", "intent": "google_search", "query": "new music 2024"}
+{"text": "push to fastapi-backend on github", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "search latest news on google", "intent": "google_search", "query": "latest news"}
+{"text": "Play How To Invest On Youtube", "intent": "youtube_search", "query": "how to invest"}
+{"text": "read this pdf project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "analyze proposal.docx document", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "serach youtube for artificial intelligence", "intent": "youtube_search", "query": "artificial intelligence"}
+{"text": "fire up settings", "intent": "open_application", "app_name": "settings"}
+{"text": "get latest from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "create a reminder for learn docker", "intent": "create_task", "task": "learn docker"}
+{"text": "get latest from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "mj crate github project personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "push latest commit to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "seach JAVASCRIPT TIPS PLEASE.", "intent": "google_search", "query": "javascript tips"}
+{"text": "SUMMARIZE PDF INVOICE.PDF", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "initialize github repository react-dashboard?", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "Git Pull Personal-Blog...", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "push to ecommerce-app on github please", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "make a task to attend team meeting", "intent": "create_task", "task": "attend team meeting"}
+{"text": "search the web for stock market tips please", "intent": "google_search", "query": "stock market tips"}
+{"text": "Can You Open Excel", "intent": "open_application", "app_name": "excel"}
+{"text": "launch calculator application?", "intent": "open_application", "app_name": "calculator"}
+{"text": "new repo fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "Hey Mj Search Youtube For Stock Market Tips", "intent": "youtube_search", "query": "stock market tips"}
+{"text": "send an email to friend@gmail.com?", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "Create Github Project Mj-Assistant?", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "write emial to support@service.com regarding deploy to production", "intent": "send_email", "email": "support@service.com"}
+{"text": "hey Play Deep Learning On Youtube", "intent": "youtube_search", "query": "deep learning"}
+{"text": "push latest commit to ml-model", "intent": "github_push", "repo": "ml-model"}
+{"text": "fire up spotify", "intent": "open_application", "app_name": "spotify"}
+{"text": "sync code with personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "ADD TASK FIX THE LOGIN BUG HIGH PRIORITY.", "intent": "create_task", "task": "fix the login bug"}
+{"text": "put exercise for 30 minutes on my task list", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "i need information on blockchain basics", "intent": "google_search", "query": "blockchain basics"}
+{"text": "start up terminal", "intent": "open_application", "app_name": "terminal"}
+{"text": "crate repo my-portfolio on github", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "SEND AN EMAIL TO TEAM@STARTUP.IO!", "intent": "send_email", "email": "team@startup.io"}
+{"text": "keep in mind that how to invest!", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "Sync Code With Mj-Assistant.", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "analyze notes.pdf document", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "send an email to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "setup github repo ecommerce-app...", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "find lofi music on youtube", "intent": "youtube_search", "query": "lofi music"}
+{"text": "extract text from data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "write an email to team@startup.io", "intent": "send_email", "email": "team@startup.io"}
+{"text": "search docker tutorial on youtube.", "intent": "youtube_search", "query": "docker tutorial"}
+{"text": "Can You Open Vs Code", "intent": "open_application", "app_name": "vs code"}
+{"text": "send email to john@gmail.com about read 20 pages", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "emal support@service.com the write unit tests details", "intent": "send_email", "email": "support@service.com"}
+{"text": "get latest from ml-model?", "intent": "github_pull", "repo": "ml-model"}
+{"text": "setup github repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "hey mj create a private repo ecommerce-app!", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "open youtube search kubernetes guide", "intent": "youtube_search", "query": "kubernetes guide"}
+{"text": "Google Trending Songs For Me", "intent": "google_search", "query": "trending songs"}
+{"text": "compose a message to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "hey mj open slack", "intent": "open_application", "app_name": "slack"}
+{"text": "Push Code To My-Portfolio Repo", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "Add New Task Deploy To Production pls", "intent": "create_task", "task": "deploy to production"}
+{"text": "save that machine learning basics", "intent": "remember_fact", "fact": "machine learning basics"}
+{"text": "Create A Task To Read 20 Pages", "intent": "create_task", "task": "read 20 pages"}
+{"text": "pull from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "can you open settings", "intent": "open_application", "app_name": "settings"}
+{"text": "create a private repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "MY STACK IS HOW TO COOK PASTA", "intent": "remember_fact", "fact": "how to cook pasta"}
+{"text": "send an email to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "Initialize Repo My-Portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "watch fastapi tutorial on youtube", "intent": "youtube_search", "query": "fastapi tutorial"}
+{"text": "Pdf Analysis Analysis.Xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "pull from ai-chatbot.", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "remember that my name is programming memes", "intent": "remember_fact", "fact": "programming memes"}
+{"text": "contact professor@university.edu by emaail", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "push to my-portfolio on github", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "hey git pull ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "add new task prepare presentation please", "intent": "create_task", "task": "prepare presentation"}
+{"text": "what does this pdf say analysis.xlsx?", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "save that blockchain basics...", "intent": "remember_fact", "fact": "blockchain basics"}
+{"text": "CREATE A NEW REPOSITORY NAMED PERSONAL-BLOG", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "Pull Updates From Ml-Model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "can you launch powerpoint for me", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "can you open calculator", "intent": "open_application", "app_name": "calculator"}
+{"text": "Git Push To Fastapi-Backend", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "i need to fix the login bug add it to my tasks", "intent": "create_task", "task": "fix the login bug"}
+{"text": "git pull mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "pull from fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "mj Play Blockchain Basics On Youtube", "intent": "youtube_search", "query": "blockchain basics"}
+{"text": "push to ecommerce-app on github", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "Get Latest From Ml-Model.", "intent": "github_pull", "repo": "ml-model"}
+{"text": "New Github Repository React-Dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "my location is blockchain basics", "intent": "remember_fact", "fact": "blockchain basics"}
+{"text": "SUMMARIZE THIS DOCUMENT DOCUMENT.PDF", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "push code to my-portfolio repo", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "mj find me kannada songs on youtube", "intent": "youtube_search", "query": "kannada songs"}
+{"text": "Remember: Kannada Songs", "intent": "remember_fact", "fact": "kannada songs"}
+{"text": "Push Latest Commit To Personal-Blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "Initialize Repo Ecommerce-App", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "mj search for funny videos on youtube please.", "intent": "youtube_search", "query": "funny videos"}
+{"text": "mj make github repo react-dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "hey send an email about review pull request to friend@gmail.com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "look for how to cook pasta on youtube!", "intent": "youtube_search", "query": "how to cook pasta"}
+{"text": "send an email about setup ci cd pipeline to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "compose email to mentor@college.edu", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "pdf analysis resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "create a task to update documentation", "intent": "create_task", "task": "update documentation"}
+{"text": "new repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "git pull react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "get latest from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "task: pay electricity bill", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "pull updates from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "create a github repo called mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "send email to john@gmail.com about read 20 pages", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "push code to ml-model repo", "intent": "github_push", "repo": "ml-model"}
+{"text": "contact recruiter@tech.com by email", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "yo earch data science course on youtube", "intent": "youtube_search", "query": "data science course"}
+{"text": "push changes to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "HEY MJ SEARCH YOUTUBE FOR CODING MUSIC please", "intent": "youtube_search", "query": "coding music"}
+{"text": "Bring Up Excel", "intent": "open_application", "app_name": "excel"}
+{"text": "make github repo ml-model!", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "googel how to cook pasta", "intent": "google_search", "query": "how to cook pasta"}
+{"text": "keep in mind that natural language processing", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "pull from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "git push to react-dashboard!", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "find yoga for beginners on youtube", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "pdf analysis project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "make a new task for review pull request", "intent": "create_task", "task": "review pull request"}
+{"text": "hey mj Remember This: How To Cook Pasta", "intent": "remember_fact", "fact": "how to cook pasta"}
+{"text": "extract data from specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "push changes to ml-model...", "intent": "github_push", "repo": "ml-model"}
+{"text": "launch powershell", "intent": "open_application", "app_name": "powershell"}
+{"text": "push latest commit to mj-assistant?", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "Youtube Bollywood Songs", "intent": "youtube_search", "query": "bollywood songs"}
+{"text": "what is in this pdf project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "remember: stock market tips", "intent": "remember_fact", "fact": "stock market tips"}
+{"text": "send message to hr@company.org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "earch ted talks song", "intent": "youtube_search", "query": "ted talks"}
+{"text": "push code to my-portfolio repo", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "what does this pdf say resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "pull updates from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "start file explorer please", "intent": "open_application", "app_name": "file explorer"}
+{"text": "initialize github repository fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "find cricket highlights online...", "intent": "google_search", "query": "cricket highlights"}
+{"text": "push latest commit to fastapi-backend", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "add task fix the login bug high priority", "intent": "create_task", "task": "fix the login bug"}
+{"text": "compose email to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "pull updates from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "get spotify running", "intent": "open_application", "app_name": "spotify"}
+{"text": "look best movies 2024 up on google.", "intent": "google_search", "query": "best movies 2024"}
+{"text": "what does this pdf say resume.pdf.", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "create repo react-dashboard on github", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "hey mj emal recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "open the chrome app", "intent": "open_application", "app_name": "chrome"}
+{"text": "create a reminder for write unit tests", "intent": "create_task", "task": "write unit tests"}
+{"text": "Can You Launch Vlc For Me", "intent": "open_application", "app_name": "vlc"}
+{"text": "create an urgent task write unit tests.", "intent": "create_task", "task": "write unit tests"}
+{"text": "Push To Ecommerce-App On Github", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "search for yoga for beginners online", "intent": "google_search", "query": "yoga for beginners"}
+{"text": "search how to invest on the internet", "intent": "google_search", "query": "how to invest"}
+{"text": "analyze invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "read this pdf proposal.docx?", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "write email to hr@company.org regarding attend team meeting", "intent": "send_email", "email": "hr@company.org"}
+{"text": "can you google lofi music", "intent": "google_search", "query": "lofi music"}
+{"text": "new github repository ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "push latest commit to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "CREATE REPO REACT-DASHBOARD ON GITHUB", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "send email to hr@company.org about optimize database?", "intent": "send_email", "email": "hr@company.org"}
+{"text": "initialize github repository ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "Setup Github Repo Mj-Assistant...", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "sync code with mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "google artificial intelligence for me", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "start control panel!", "intent": "open_application", "app_name": "control panel"}
+{"text": "start calculator please", "intent": "open_application", "app_name": "calculator"}
+{"text": "yo summarize pdf report.pdf", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "MY STACK IS JAVASCRIPT TIPS", "intent": "remember_fact", "fact": "javascript tips"}
+{"text": "CAN YOU OPEN DISCORD", "intent": "open_application", "app_name": "discord"}
+{"text": "get latest from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "keep in mind that react hooks", "intent": "remember_fact", "fact": "react hooks"}
+{"text": "open youtube search best movies 2024", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "yo research best movies 2024", "intent": "google_search", "query": "best movies 2024"}
+{"text": "Store This Fact: How To Invest", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "send an emal about write unit tests to friend@gmail.com.", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "yo Open Zoom!", "intent": "open_application", "app_name": "zoom"}
+{"text": "set up a new github repo for fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "push to mj-assistant on github", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "SET UP A NEW GITHUB REPO FOR AI-CHATBOT", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "creat task: exercise for 30 minutes", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "git pull react-dashboard.", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "find best movies 2024 on youtube", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "play computer vision on youtube", "intent": "youtube_search", "query": "computer vision"}
+{"text": "push latest commit to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "push latest commit to mj-assistant.", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "start paint", "intent": "open_application", "app_name": "paint"}
+{"text": "create a reminder for pay electricity bill", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "initialize github repository ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "summarize this document proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "add a task write api documentation", "intent": "create_task", "task": "write api documentation"}
+{"text": "goggle cricket highlights.", "intent": "google_search", "query": "cricket highlights"}
+{"text": "get latest from my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "extract data from resume.pdf.", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "open settings", "intent": "open_application", "app_name": "settings"}
+{"text": "SYNC CODE WITH REACT-DASHBOARD", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "sync code with fastapi-backend?", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "Push Changes To Personal-Blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "send an email about write api documentation to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "google programming memes", "intent": "google_search", "query": "programming memes"}
+{"text": "git pull ai-chatbot please", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "i am preparing for coding music", "intent": "remember_fact", "fact": "coding music"}
+{"text": "my preference is best movies 2024", "intent": "remember_fact", "fact": "best movies 2024"}
+{"text": "ANALYZE NOTES.PDF", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "github new repo ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "mj find me how to invest on youtube", "intent": "youtube_search", "query": "how to invest"}
+{"text": "find me results for stock market tips", "intent": "google_search", "query": "stock market tips"}
+{"text": "RESEARCH JAVASCRIPT TIPS", "intent": "google_search", "query": "javascript tips"}
+{"text": "push to ai-chatbot on github", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "pull from fastapi-backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "push to react-dashboard on github.", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "create a github repo called ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "hey mj opne chrome", "intent": "open_application", "app_name": "chrome"}
+{"text": "push changes to data-pipeline...", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "earch for blockchain basics", "intent": "google_search", "query": "blockchain basics"}
+{"text": "Send Mentor@College.Edu An Email", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "pull updates from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "SEND MENTOR@COLLEGE.EDU AN EMAIL", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "MY PROJECT IS FASTAPI TUTORIAL", "intent": "remember_fact", "fact": "fastapi tutorial"}
+{"text": "initialize github repository fastapi-backend...", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "task: refactor auth module!", "intent": "create_task", "task": "refactor auth module"}
+{"text": "contact hr@company.org by email", "intent": "send_email", "email": "hr@company.org"}
+{"text": "push to mj-assistant on github", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "Find Tamil Songs Tutorial On Youtube?", "intent": "youtube_search", "query": "tamil songs"}
+{"text": "yo pull from react-dashboard...", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "pull updates from my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "create public repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "initialize repo ecommerce-app please", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "extract data from proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "add task optimize database high priority", "intent": "create_task", "task": "optimize database"}
+{"text": "set up a new github repo for mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "mj find me coding music on youtube", "intent": "youtube_search", "query": "coding music"}
+{"text": "launch microsoft word application", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "analyze specification.docx document", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "push changes to ml-model", "intent": "github_push", "repo": "ml-model"}
+{"text": "look for javascript tips on google", "intent": "google_search", "query": "javascript tips"}
+{"text": "CREATE A NEW REPOSITORY NAMED REACT-DASHBOARD", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "I Need To Call The Doctor Add It To My Tasks", "intent": "create_task", "task": "call the doctor"}
+{"text": "extract data from invoice.pdf!", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "research javascript tips", "intent": "google_search", "query": "javascript tips"}
+{"text": "SEARCH KUBERNETES GUIDE ON THE INTERNET.", "intent": "google_search", "query": "kubernetes guide"}
+{"text": "Look Kannada Songs Up On goolge", "intent": "google_search", "query": "kannada songs"}
+{"text": "pull from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "mj Go To Youtube And Search Yoga For Beginners", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "KEEP IN MIND THAT YOGA FOR BEGINNERS", "intent": "remember_fact", "fact": "yoga for beginners"}
+{"text": "start notepad please!", "intent": "open_application", "app_name": "notepad"}
+{"text": "go to youtube and search trending songs please", "intent": "youtube_search", "query": "trending songs"}
+{"text": "find docker tutorial on youtube", "intent": "youtube_search", "query": "docker tutorial"}
+{"text": "Launch Calculator Application please", "intent": "open_application", "app_name": "calculator"}
+{"text": "google yoga for beginners", "intent": "google_search", "query": "yoga for beginners"}
+{"text": "start the discord", "intent": "open_application", "app_name": "discord"}
+{"text": "analyze project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "keep in mind that trending songs please", "intent": "remember_fact", "fact": "trending songs"}
+{"text": "send an email about exercise for 30 minutes to hr@company.org?", "intent": "send_email", "email": "hr@company.org"}
+{"text": "earch python tutorial please please", "intent": "google_search", "query": "python tutorial"}
+{"text": "set up a new github repo for mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "Pull From Data-Pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "STORE THIS FACT: NATURAL LANGUAGE PROCESSING", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "I NEED INFORMATION ON HOW TO INVEST", "intent": "google_search", "query": "how to invest"}
+{"text": "push to fastapi-backend on github", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "push changes to ml-model", "intent": "github_push", "repo": "ml-model"}
+{"text": "read document notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "push changes to ai-chatbot!", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "push code to fastapi-backend repo", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "yo Add Task Buy Groceries High Priority", "intent": "create_task", "task": "buy groceries"}
+{"text": "run terminal", "intent": "open_application", "app_name": "terminal"}
+{"text": "open youtube search how to cook pasta", "intent": "youtube_search", "query": "how to cook pasta"}
+{"text": "my college is motivational speeches", "intent": "remember_fact", "fact": "motivational speeches"}
+{"text": "mj read this pdf data.csv.", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "STORE THIS FACT: REACT HOOKS", "intent": "remember_fact", "fact": "react hooks"}
+{"text": "write an email to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "hey My Github Is Docker Tutorial", "intent": "remember_fact", "fact": "docker tutorial"}
+{"text": "draft an email to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "github new repo ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "start spotify", "intent": "open_application", "app_name": "spotify"}
+{"text": "contact recruiter@tech.com by emaail...", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "new github repository fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "push latest commit to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "task: send weekly report", "intent": "create_task", "task": "send weekly report"}
+{"text": "put write unit tests on my task list", "intent": "create_task", "task": "write unit tests"}
+{"text": "read document data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "My Project Is React Hooks", "intent": "remember_fact", "fact": "react hooks"}
+{"text": "get latest from my-portfolio please", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "Create A New Repository Named My-Portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "create repo data-pipeline on github", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "push code to personal-blog repo", "intent": "github_push", "repo": "personal-blog"}
+{"text": "read document resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "note that coding music", "intent": "remember_fact", "fact": "coding music"}
+{"text": "hey what does this pdf say notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "create an urgent task fix the login bug", "intent": "create_task", "task": "fix the login bug"}
+{"text": "hey mj open file explorer?", "intent": "open_application", "app_name": "file explorer"}
+{"text": "send emal to friend@gmail.com about attend team meeting", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "store this fact: artificial intelligence", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "hey mj launch the paint app", "intent": "open_application", "app_name": "paint"}
+{"text": "push to data-pipeline on github", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "put review pull request on my task list", "intent": "create_task", "task": "review pull request"}
+{"text": "setup github repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "open control panel", "intent": "open_application", "app_name": "control panel"}
+{"text": "find programming memes tutorial on youtube", "intent": "youtube_search", "query": "programming memes"}
+{"text": "make a task to refactor auth module?", "intent": "create_task", "task": "refactor auth module"}
+{"text": "Look Up New Music 2024", "intent": "google_search", "query": "new music 2024"}
+{"text": "find best movies 2024 song on youtube", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "what is lofi music google it", "intent": "google_search", "query": "lofi music"}
+{"text": "i work at latest news", "intent": "remember_fact", "fact": "latest news"}
+{"text": "i need to find ted talks", "intent": "google_search", "query": "ted talks"}
+{"text": "can you launch snipping tool for me", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "create todo review pull request", "intent": "create_task", "task": "review pull request"}
+{"text": "i want to watch computer vision", "intent": "youtube_search", "query": "computer vision"}
+{"text": "git push to data-pipeline...", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "push changes to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "MAKE A NEW TASK FOR PREPARE PRESENTATION.", "intent": "create_task", "task": "prepare presentation"}
+{"text": "play web scraping python video", "intent": "youtube_search", "query": "web scraping python"}
+{"text": "PULL FROM FASTAPI-BACKEND please", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "create a private repo mobile-app please", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "fire up zoom", "intent": "open_application", "app_name": "zoom"}
+{"text": "CONTACT JOHN@GMAIL.COM BY EMAIL", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "store this fact: motivational speeches", "intent": "remember_fact", "fact": "motivational speeches"}
+{"text": "SEARCH NATURAL LANGUAGE PROCESSING ON GOOGLE?", "intent": "google_search", "query": "natural language processing"}
+{"text": "extract text from project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "Find Me Results For Lofi Music", "intent": "google_search", "query": "lofi music"}
+{"text": "create a github repo called fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "Open Youtube And Search For Data Science Course?", "intent": "youtube_search", "query": "data science course"}
+{"text": "hey mj youtube search for yoga for beginners please", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "youtube search yoga for beginners", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "mj find me personal finance on youtube", "intent": "youtube_search", "query": "personal finance"}
+{"text": "MY STACK IS JAVASCRIPT TIPS...", "intent": "remember_fact", "fact": "javascript tips"}
+{"text": "SYNC CODE WITH REACT-DASHBOARD", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "store this fact: docker tutorial please", "intent": "remember_fact", "fact": "docker tutorial"}
+{"text": "play coding music video", "intent": "youtube_search", "query": "coding music"}
+{"text": "LOOK TED TALKS UP ON GOOGLE", "intent": "google_search", "query": "ted talks"}
+{"text": "draft an email to boss@company.com", "intent": "send_email", "email": "boss@company.com"}
+{"text": "Create Task: Read 20 Pages", "intent": "create_task", "task": "read 20 pages"}
+{"text": "new task read 20 pages", "intent": "create_task", "task": "read 20 pages"}
+{"text": "START TASK MANAGER!", "intent": "open_application", "app_name": "task manager"}
+{"text": "find web scraping python tutorial on youtube.", "intent": "youtube_search", "query": "web scraping python"}
+{"text": "yo push latest commit to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "note that yoga for beginners", "intent": "remember_fact", "fact": "yoga for beginners"}
+{"text": "search artificial intelligence please please", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "Summarize Pdf Specification.Docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "Open Excel On My Computer", "intent": "open_application", "app_name": "excel"}
+{"text": "yo get latest from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "yo sync code with data-pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "git pull ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "make github repo react-dashboard", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "Find Information About Computer Vision", "intent": "google_search", "query": "computer vision"}
+{"text": "start up paint", "intent": "open_application", "app_name": "paint"}
+{"text": "pdf analysis report.pdf", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "look up blockchain basics on yotube", "intent": "youtube_search", "query": "blockchain basics"}
+{"text": "mj find artificial intelligence tutorial on youttube", "intent": "youtube_search", "query": "artificial intelligence"}
+{"text": "can you launch steam for me", "intent": "open_application", "app_name": "steam"}
+{"text": "remember: natural language processing", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "i need to pay electricity bill add it to my tasks", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "set up a new github repo for react-dashboard?", "intent": "github_create_repo", "repo": "react-dashboard"}
+{"text": "My Project Is Latest News", "intent": "remember_fact", "fact": "latest news"}
+{"text": "look cricket highlights up on google", "intent": "google_search", "query": "cricket highlights"}
+{"text": "Analyze Invoice.Pdf.", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "read document resume.pdf...", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "push to ecommerce-app on github", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "yo pull updates from personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "push changes to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "find personal finance information", "intent": "google_search", "query": "personal finance"}
+{"text": "push to ai-chatbot on github...", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "push latest commit to mj-assistant", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "hey mj set a task for update documentation", "intent": "create_task", "task": "update documentation"}
+{"text": "push to mj-assistant on github.", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "create a new repository named my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "open zoom program", "intent": "open_application", "app_name": "zoom"}
+{"text": "i work at web scraping python", "intent": "remember_fact", "fact": "web scraping python"}
+{"text": "email hr@company.org about deploy to production", "intent": "send_email", "email": "hr@company.org"}
+{"text": "open calculator on my computer", "intent": "open_application", "app_name": "calculator"}
+{"text": "create public repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "my college is new music 2024...", "intent": "remember_fact", "fact": "new music 2024"}
+{"text": "set up a new github repo for ai-chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "set a task for setup ci cd pipeline", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "initialize repo my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "push to mj-assistant on github", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "run zoom", "intent": "open_application", "app_name": "zoom"}
+{"text": "find me fastapi tutorial on youtube", "intent": "youtube_search", "query": "fastapi tutorial"}
+{"text": "LAUNCH THE CHROME APP", "intent": "open_application", "app_name": "chrome"}
+{"text": "send an email to hr@company.org...", "intent": "send_email", "email": "hr@company.org"}
+{"text": "yo i work at computer vision", "intent": "remember_fact", "fact": "computer vision"}
+{"text": "ADD NEW TASK UPDATE DOCUMENTATION PLEASE!", "intent": "create_task", "task": "update documentation"}
+{"text": "git pull react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "crate todo write unit tests", "intent": "create_task", "task": "write unit tests"}
+{"text": "Look Up Yoga For Beginners", "intent": "google_search", "query": "yoga for beginners"}
+{"text": "Watch Python Tutorial On Youtube?", "intent": "youtube_search", "query": "python tutorial"}
+{"text": "Search For Blockchain Basics?", "intent": "google_search", "query": "blockchain basics"}
+{"text": "pdf analysis invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "yo email boss@company.com the exercise for 30 minutes details.", "intent": "send_email", "email": "boss@company.com"}
+{"text": "summarize pdf analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "can you open file explorer...", "intent": "open_application", "app_name": "file explorer"}
+{"text": "make a new repo ml-model", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "pull updates from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "ANALYZE DOCUMENT.PDF DOCUMENT", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "summarize this document project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "make a new task for send weekly report", "intent": "create_task", "task": "send weekly report"}
+{"text": "pull from ml-model!", "intent": "github_pull", "repo": "ml-model"}
+{"text": "find information about ted talks!", "intent": "google_search", "query": "ted talks"}
+{"text": "remember this: lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "Initialize Repo Ai-Chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "push changes to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "HEY MJ SEARCH YOUTUBE FOR MOTIVATIONAL SPEECHES", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "Find Information About Artificial Intelligence", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "hey mj push to ecommerce-app on github!", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "launch slack application", "intent": "open_application", "app_name": "slack"}
+{"text": "remember that my name is stock market tips", "intent": "remember_fact", "fact": "stock market tips"}
+{"text": "add fix the login bug to my tsaks", "intent": "create_task", "task": "fix the login bug"}
+{"text": "craete public repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "push to fastapi-backend on github", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "create a private repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "store this fact: cricket highlights?", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "Find Javascript Tips Song On Youtube", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "I Am Preparing For Kubernetes Guide...", "intent": "remember_fact", "fact": "kubernetes guide"}
+{"text": "google personal finance for me", "intent": "google_search", "query": "personal finance"}
+{"text": "Find Ted Talks Tutorial On Youtube", "intent": "youtube_search", "query": "ted talks"}
+{"text": "sync code with ai-chatbot...", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "open settings on my computer", "intent": "open_application", "app_name": "settings"}
+{"text": "watch funny videos on youtube", "intent": "youtube_search", "query": "funny videos"}
+{"text": "put exercise for 30 minutes on my task list...", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "push to ecommerce-app on github", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "set a task for pay electricity bill", "intent": "create_task", "task": "pay electricity bill"}
+{"text": "Create Repo Mobile-App On Github", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "create task: attend team meeting!", "intent": "create_task", "task": "attend team meeting"}
+{"text": "new repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "remind me to call the doctor!", "intent": "create_task", "task": "call the doctor"}
+{"text": "my project is programming memes...", "intent": "remember_fact", "fact": "programming memes"}
+{"text": "Can You Launch Powershell For Me", "intent": "open_application", "app_name": "powershell"}
+{"text": "Read This Pdf Proposal.Docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "ANALYZE NOTES.PDF", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "oepn the excel app", "intent": "open_application", "app_name": "excel"}
+{"text": "Summarize This Document Resume.Pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "add new task update documentation please", "intent": "create_task", "task": "update documentation"}
+{"text": "Pull From My-Portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "summarize this document resume.pdf.", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "find information about natural language processing", "intent": "google_search", "query": "natural language processing"}
+{"text": "search for data science course", "intent": "google_search", "query": "data science course"}
+{"text": "WHAT DOES THIS PDF SAY RESUME.PDF", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "open file explorer for me", "intent": "open_application", "app_name": "file explorer"}
+{"text": "I Need To Find Blockchain Basics", "intent": "google_search", "query": "blockchain basics"}
+{"text": "extract data from specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "push changes to ai-chatbot", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "hey mj creat a private repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "google earch programming memes!", "intent": "google_search", "query": "programming memes"}
+{"text": "find me funny videos on youtube", "intent": "youtube_search", "query": "funny videos"}
+{"text": "send an email to hr@company.org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "Compose A Message To Client@Business.Com", "intent": "send_email", "email": "client@business.com"}
+{"text": "look up how to invest", "intent": "google_search", "query": "how to invest"}
+{"text": "hey pull from personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "search for javascript tips on youtube please", "intent": "youtube_search", "query": "javascript tips"}
+{"text": "draft an email to mentor@college.edu", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "mj ADD ATTEND TEAM MEETING TO MY TO-DO.", "intent": "create_task", "task": "attend team meeting"}
+{"text": "SEARCH JAVASCRIPT TIPS IN GOOGLE", "intent": "google_search", "query": "javascript tips"}
+{"text": "hey mj push changes to personal-blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "analyze project.pdf document", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "my preference is kannada songs...", "intent": "remember_fact", "fact": "kannada songs"}
+{"text": "NOTE THAT KUBERNETES GUIDE", "intent": "remember_fact", "fact": "kubernetes guide"}
+{"text": "email professor@university.edu about write api documentation", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "PUSH LATEST COMMIT TO MY-PORTFOLIO please", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "send an email to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "create task: write unit tests", "intent": "create_task", "task": "write unit tests"}
+{"text": "send an email about write api documentation to client@business.com", "intent": "send_email", "email": "client@business.com"}
+{"text": "push latest commit to ml-model", "intent": "github_push", "repo": "ml-model"}
+{"text": "read this pdf notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "read this pdf report.pdf?", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "pull from my-portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "save that latest news", "intent": "remember_fact", "fact": "latest news"}
+{"text": "look for motivational speeches on yotube", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "read this pdf document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "Open Youtube And Search For Machine Learning Basics...", "intent": "youtube_search", "query": "machine learning basics"}
+{"text": "push to react-dashboard on github", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "git pull personal-blog?", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "youtube search for machine learning basics please.", "intent": "youtube_search", "query": "machine learning basics"}
+{"text": "open excel app please", "intent": "open_application", "app_name": "excel"}
+{"text": "email boss@company.com", "intent": "send_email", "email": "boss@company.com"}
+{"text": "remember this: gym workout", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "email friend@gmail.com about call the doctor", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "mj launch the microsoft word app", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "crate public repo ml-model!", "intent": "github_create_repo", "repo": "ml-model"}
+{"text": "look how to cook pasta up on goggle", "intent": "google_search", "query": "how to cook pasta"}
+{"text": "summarize this document report.pdf", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "analyze data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "initialize repo ecommerce-app!", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "create a private repo data-pipeline", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "can you google fastapi tutorial", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "push to mobile-app on github!", "intent": "github_push", "repo": "mobile-app"}
+{"text": "yo Github New Repo Mobile-App", "intent": "github_create_repo", "repo": "mobile-app"}
+{"text": "search new music 2024 please", "intent": "google_search", "query": "new music 2024"}
+{"text": "WRITE AN EMAIL TO HR@COMPANY.ORG", "intent": "send_email", "email": "hr@company.org"}
+{"text": "push latest commit to mj-assistant?", "intent": "github_push", "repo": "mj-assistant"}
+{"text": "git pull personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "git pull mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "start the powershell", "intent": "open_application", "app_name": "powershell"}
+{"text": "Read This Pdf Proposal.Docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "yo get powerpoint running", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "Create Task: Setup Ci Cd Pipeline", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "Find Javascript Tips Information", "intent": "google_search", "query": "javascript tips"}
+{"text": "hey mj opne task manager", "intent": "open_application", "app_name": "task manager"}
+{"text": "compose email to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "summarize pdf analysis.xlsx.", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "summarize pdf analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "search web scraping python in google", "intent": "google_search", "query": "web scraping python"}
+{"text": "SYNC CODE WITH ECOMMERCE-APP", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "Send Mentor@College.Edu An Email", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "seach natural language processing on youtube", "intent": "youtube_search", "query": "natural language processing"}
+{"text": "write email to boss@company.com regarding fix the login bug", "intent": "send_email", "email": "boss@company.com"}
+{"text": "can you search computer vision on youtube", "intent": "youtube_search", "query": "computer vision"}
+{"text": "start the slack", "intent": "open_application", "app_name": "slack"}
+{"text": "task: complete assignment", "intent": "create_task", "task": "complete assignment"}
+{"text": "search coding music on the internet", "intent": "google_search", "query": "coding music"}
+{"text": "remind me to buy groceries", "intent": "create_task", "task": "buy groceries"}
+{"text": "remember that my name is personal finance", "intent": "remember_fact", "fact": "personal finance"}
+{"text": "i work at lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "Can You Open Task Manager", "intent": "open_application", "app_name": "task manager"}
+{"text": "open youtube and search for natural language processing", "intent": "youtube_search", "query": "natural language processing"}
+{"text": "git pull react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "sync code with personal-blog", "intent": "github_pull", "repo": "personal-blog"}
+{"text": "RUN NOTEPAD", "intent": "open_application", "app_name": "notepad"}
+{"text": "extract data from analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "find information about fastapi tutorial", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "set a task for attend team meeting", "intent": "create_task", "task": "attend team meeting"}
+{"text": "remember my cricket highlights", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "push to ml-model on github", "intent": "github_push", "repo": "ml-model"}
+{"text": "create a private repo my-portfolio please", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "COMPOSE A MESSAGE TO PROFESSOR@UNIVERSITY.EDU", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "get latest from ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "MY GITHUB IS WEB SCRAPING PYTHON", "intent": "remember_fact", "fact": "web scraping python"}
+{"text": "send an email about prepare presentation to mentor@college.edu.", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "I Need Information On Fastapi Tutorial", "intent": "google_search", "query": "fastapi tutorial"}
+{"text": "MY GITHUB IS HOW TO INVEST", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "my github is motivational speeches", "intent": "remember_fact", "fact": "motivational speeches"}
+{"text": "git push to react-dashboard?", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "GIT PUSH TO DATA-PIPELINE", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "Write Email To Friend@Gmail.Com Regarding Send Weekly Report", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "push latest commit to react-dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "store this fact: tamil songs", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "push changes to react-dashboard...", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "draft an email to john@gmail.com", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "open youtube search personal finance!", "intent": "youtube_search", "query": "personal finance"}
+{"text": "new repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "extract text from specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "launch the terminal app", "intent": "open_application", "app_name": "terminal"}
+{"text": "git push to react-dashboard.", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "push to ai-chatbot on github", "intent": "github_push", "repo": "ai-chatbot"}
+{"text": "Create An Urgent Task Setup Ci Cd Pipeline", "intent": "create_task", "task": "setup ci cd pipeline"}
+{"text": "SEARCH KUBERNETES GUIDE ON THE INTERNET", "intent": "google_search", "query": "kubernetes guide"}
+{"text": "open youtube search coding music", "intent": "youtube_search", "query": "coding music"}
+{"text": "google search best movies 2024!", "intent": "google_search", "query": "best movies 2024"}
+{"text": "remember: lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "Send Email To Friend@Gmail.Com About Update Documentation", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "I AM PREPARING FOR NATURAL LANGUAGE PROCESSING", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "search computer vision on youtube please", "intent": "youtube_search", "query": "computer vision"}
+{"text": "pull updates from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "play data science course video please", "intent": "youtube_search", "query": "data science course"}
+{"text": "open steam", "intent": "open_application", "app_name": "steam"}
+{"text": "run task manager", "intent": "open_application", "app_name": "task manager"}
+{"text": "get latest from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "create public repo data-pipeline", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "I Am Preparing For Tamil Songs?", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "OPEN YOUTUBE AND SEARCH FOR MOTIVATIONAL SPEECHES", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "play coding music video", "intent": "youtube_search", "query": "coding music"}
+{"text": "set a tsk for learn docker", "intent": "create_task", "task": "learn docker"}
+{"text": "PULL UPDATES FROM FASTAPI-BACKEND", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "remember this: lofi music", "intent": "remember_fact", "fact": "lofi music"}
+{"text": "analyze proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "summarize this document project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "pull from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "create todo complete assignment", "intent": "create_task", "task": "complete assignment"}
+{"text": "git pull data-pipeline", "intent": "github_pull", "repo": "data-pipeline"}
+{"text": "yo launch settings", "intent": "open_application", "app_name": "settings"}
+{"text": "hey my location is motivational speeches", "intent": "remember_fact", "fact": "motivational speeches"}
+{"text": "save that computer vision.", "intent": "remember_fact", "fact": "computer vision"}
+{"text": "what is artificial intelligence google it.", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "email mentor@college.edu the exercise for 30 minutes details", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "Make A Task To Buy Groceries", "intent": "create_task", "task": "buy groceries"}
+{"text": "PUSH TO ML-MODEL ON GITHUB", "intent": "github_push", "repo": "ml-model"}
+{"text": "Keep In Mind That Yoga For Beginners please", "intent": "remember_fact", "fact": "yoga for beginners"}
+{"text": "yo i need to find data science course", "intent": "google_search", "query": "data science course"}
+{"text": "Extract Text From Data.Csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "summarize pdf report.pdf", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "google search natural language processing", "intent": "google_search", "query": "natural language processing"}
+{"text": "open youtube and search for yoga for beginners", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "my github is best movies 2024", "intent": "remember_fact", "fact": "best movies 2024"}
+{"text": "hey schedule task learn docker", "intent": "create_task", "task": "learn docker"}
+{"text": "remember that my name is react hooks", "intent": "remember_fact", "fact": "react hooks"}
+{"text": "push code to mobile-app repo", "intent": "github_push", "repo": "mobile-app"}
+{"text": "read document data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "go to youtube and search best movies 2024", "intent": "youtube_search", "query": "best movies 2024"}
+{"text": "Add Write Unit Tests To My To-Do", "intent": "create_task", "task": "write unit tests"}
+{"text": "mj add to my todo list submit project proposal", "intent": "create_task", "task": "submit project proposal"}
+{"text": "SAVE THAT TAMIL SONGS", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "my stack is javascript tips...", "intent": "remember_fact", "fact": "javascript tips"}
+{"text": "my stack is kubernetes guide", "intent": "remember_fact", "fact": "kubernetes guide"}
+{"text": "github new repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "bring up task manager...", "intent": "open_application", "app_name": "task manager"}
+{"text": "search ted talks song", "intent": "youtube_search", "query": "ted talks"}
+{"text": "git push to data-pipeline", "intent": "github_push", "repo": "data-pipeline"}
+{"text": "Create Repo Fastapi-Backend On Github", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "oepn control panel", "intent": "open_application", "app_name": "control panel"}
+{"text": "create public repo fastapi-backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "mj find me kannada songs on youtube", "intent": "youtube_search", "query": "kannada songs"}
+{"text": "OPEN YOUTUBE SEARCH DATA SCIENCE COURSE?", "intent": "youtube_search", "query": "data science course"}
+{"text": "search latest news song please", "intent": "youtube_search", "query": "latest news"}
+{"text": "mj Add New Task Exercise For 30 Minutes Please", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "send an emial about deploy to production to hr@company.org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "Create An Urgent Task Optimize Database", "intent": "create_task", "task": "optimize database"}
+{"text": "write an email to john@gmail.com", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "email mentor@college.edu the write api documentation details", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "extract data from project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "write an email to team@startup.io", "intent": "send_email", "email": "team@startup.io"}
+{"text": "contact support@service.com by email", "intent": "send_email", "email": "support@service.com"}
+{"text": "Pull From Fastapi-Backend...", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "yo youtube search for ted talks please", "intent": "youtube_search", "query": "ted talks"}
+{"text": "remind me to call the doctor", "intent": "create_task", "task": "call the doctor"}
+{"text": "youtube python tutorial!", "intent": "youtube_search", "query": "python tutorial"}
+{"text": "go to youtube and search new music 2024", "intent": "youtube_search", "query": "new music 2024"}
+{"text": "pull updates from ai-chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "ADD A TASK OPTIMIZE DATABASE", "intent": "create_task", "task": "optimize database"}
+{"text": "i work at artificial intelligence?", "intent": "remember_fact", "fact": "artificial intelligence"}
+{"text": "I NEED TO FIND JAVASCRIPT TIPS", "intent": "google_search", "query": "javascript tips"}
+{"text": "find me new music 2024 on youtube", "intent": "youtube_search", "query": "new music 2024"}
+{"text": "fire up powershell", "intent": "open_application", "app_name": "powershell"}
+{"text": "yo i work at kannada songs", "intent": "remember_fact", "fact": "kannada songs"}
+{"text": "push latest commit to react-dashboard.", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "Extract Text From Analysis.Xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "note that gym workout", "intent": "remember_fact", "fact": "gym workout"}
+{"text": "push code to ml-model repo", "intent": "github_push", "repo": "ml-model"}
+{"text": "add a task write unit tests", "intent": "create_task", "task": "write unit tests"}
+{"text": "Sync Code With Fastapi-Backend", "intent": "github_pull", "repo": "fastapi-backend"}
+{"text": "hey search best movies 2024 please", "intent": "google_search", "query": "best movies 2024"}
+{"text": "Git Pull Mj-Assistant?", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "search artificial intelligence please", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "search for funny videos on youtube please", "intent": "youtube_search", "query": "funny videos"}
+{"text": "my stack is funny videos", "intent": "remember_fact", "fact": "funny videos"}
+{"text": "my stack is natural language processing", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "note that tamil songs", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "pull from ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "find coding music information...", "intent": "google_search", "query": "coding music"}
+{"text": "Create Github Project Ai-Chatbot", "intent": "github_create_repo", "repo": "ai-chatbot"}
+{"text": "creat task: learn docker", "intent": "create_task", "task": "learn docker"}
+{"text": "sync code with ecommerce-app", "intent": "github_pull", "repo": "ecommerce-app"}
+{"text": "analyze report.pdf", "intent": "analyze_pdf", "file": "report.pdf"}
+{"text": "what does this pdf say resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "my github is funny videos", "intent": "remember_fact", "fact": "funny videos"}
+{"text": "tsak: call the doctor", "intent": "create_task", "task": "call the doctor"}
+{"text": "start notepad please.", "intent": "open_application", "app_name": "notepad"}
+{"text": "what does this pdf say resume.pdf", "intent": "analyze_pdf", "file": "resume.pdf"}
+{"text": "note that tamil songs", "intent": "remember_fact", "fact": "tamil songs"}
+{"text": "can you launch paint for me", "intent": "open_application", "app_name": "paint"}
+{"text": "mj search artificial intelligence in google", "intent": "google_search", "query": "artificial intelligence"}
+{"text": "look up gym workout", "intent": "google_search", "query": "gym workout"}
+{"text": "Task: Review Pull Request?", "intent": "create_task", "task": "review pull request"}
+{"text": "push latest commit to my-portfolio...", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "mj STORE THIS FACT: CRICKET HIGHLIGHTS", "intent": "remember_fact", "fact": "cricket highlights"}
+{"text": "push code to mobile-app repo!", "intent": "github_push", "repo": "mobile-app"}
+{"text": "what does this pdf say specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "play how to cook pasta video", "intent": "youtube_search", "query": "how to cook pasta"}
+{"text": "summarize this document proposal.docx", "intent": "analyze_pdf", "file": "proposal.docx"}
+{"text": "mj launch the paint app", "intent": "open_application", "app_name": "paint"}
+{"text": "write emal to mentor@college.edu regarding call the doctor", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "read this pdf invoice.pdf", "intent": "analyze_pdf", "file": "invoice.pdf"}
+{"text": "put deploy to production on my task list", "intent": "create_task", "task": "deploy to production"}
+{"text": "hey remember: funny videos", "intent": "remember_fact", "fact": "funny videos"}
+{"text": "launch control panel application", "intent": "open_application", "app_name": "control panel"}
+{"text": "Search Youtube For React Hooks please", "intent": "youtube_search", "query": "react hooks"}
+{"text": "Write emaail To Team@Startup.Io Regarding Prepare Presentation.", "intent": "send_email", "email": "team@startup.io"}
+{"text": "get latest from react-dashboard", "intent": "github_pull", "repo": "react-dashboard"}
+{"text": "make github repo personal-blog", "intent": "github_create_repo", "repo": "personal-blog"}
+{"text": "compose a message to professor@university.edu", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "new repo my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "hey mj search youtube for python tutorial", "intent": "youtube_search", "query": "python tutorial"}
+{"text": "keep in mind that kannada songs!", "intent": "remember_fact", "fact": "kannada songs"}
+{"text": "Pull From Mobile-App", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "yo my location is how to invest", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "what does this pdf say notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "get latest from mobile-app", "intent": "github_pull", "repo": "mobile-app"}
+{"text": "open vlc on my computer", "intent": "open_application", "app_name": "vlc"}
+{"text": "analyze specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "I Need To Refactor Auth Module Add It To My Tasks", "intent": "create_task", "task": "refactor auth module"}
+{"text": "i need to optimize database add it to my tsaks", "intent": "create_task", "task": "optimize database"}
+{"text": "analyze document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "open snipping tool for me.", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "SUMMARIZE PDF NOTES.PDF", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "SEARCH MOTIVATIONAL SPEECHES SONG", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "Push Changes To Personal-Blog", "intent": "github_push", "repo": "personal-blog"}
+{"text": "youtube search yoga for beginners", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "launch discord!", "intent": "open_application", "app_name": "discord"}
+{"text": "open the powerpoint app?", "intent": "open_application", "app_name": "powerpoint"}
+{"text": "hey mj send message to hr@company.org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "note that deep learning", "intent": "remember_fact", "fact": "deep learning"}
+{"text": "emial mentor@college.edu the exercise for 30 minutes details", "intent": "send_email", "email": "mentor@college.edu"}
+{"text": "search the web for how to invest", "intent": "google_search", "query": "how to invest"}
+{"text": "youtube search for kubernetes guide please", "intent": "youtube_search", "query": "kubernetes guide"}
+{"text": "Get Latest From Ai-Chatbot", "intent": "github_pull", "repo": "ai-chatbot"}
+{"text": "look gym workout up on google...", "intent": "google_search", "query": "gym workout"}
+{"text": "what is in this pdf data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "create a new repository named data-pipeline.", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "my stack is javascript tips", "intent": "remember_fact", "fact": "javascript tips"}
+{"text": "git push to my-portfolio", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "open control panel program", "intent": "open_application", "app_name": "control panel"}
+{"text": "my college is web scraping python", "intent": "remember_fact", "fact": "web scraping python"}
+{"text": "serach yoga for beginners on the internet", "intent": "google_search", "query": "yoga for beginners"}
+{"text": "search motivational speeches on youtube", "intent": "youtube_search", "query": "motivational speeches"}
+{"text": "push to fastapi-backend on github...", "intent": "github_push", "repo": "fastapi-backend"}
+{"text": "my location is blockchain basics", "intent": "remember_fact", "fact": "blockchain basics"}
+{"text": "yo get latest from my-portfolio please", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "push to my-portfolio on github", "intent": "github_push", "repo": "my-portfolio"}
+{"text": "Open Paint App Please", "intent": "open_application", "app_name": "paint"}
+{"text": "get snipping tool running", "intent": "open_application", "app_name": "snipping tool"}
+{"text": "SCHEDULE TASK CALL THE DOCTOR please", "intent": "create_task", "task": "call the doctor"}
+{"text": "emial boss@company.com about learn docker", "intent": "send_email", "email": "boss@company.com"}
+{"text": "hey mj send an email about complete assignment to team@startup.io", "intent": "send_email", "email": "team@startup.io"}
+{"text": "push changes to react-dashboard", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "add update documentation to my to-do", "intent": "create_task", "task": "update documentation"}
+{"text": "Read Document Specification.Docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "add task buy groceries high priority", "intent": "create_task", "task": "buy groceries"}
+{"text": "hey mj open notepad", "intent": "open_application", "app_name": "notepad"}
+{"text": "hey mj run settings.", "intent": "open_application", "app_name": "settings"}
+{"text": "write an email to friend@gmail.com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "SUMMARIZE PDF PROJECT.PDF", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "I Am Preparing For Coding Music", "intent": "remember_fact", "fact": "coding music"}
+{"text": "yo PUSH LATEST COMMIT TO REACT-DASHBOARD", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "YOUTUBE SEARCH KUBERNETES GUIDE!", "intent": "youtube_search", "query": "kubernetes guide"}
+{"text": "google ted talks", "intent": "google_search", "query": "ted talks"}
+{"text": "make a task to submit project proposal", "intent": "create_task", "task": "submit project proposal"}
+{"text": "write an email to friend@gmail.com", "intent": "send_email", "email": "friend@gmail.com"}
+{"text": "play docker tutorial video", "intent": "youtube_search", "query": "docker tutorial"}
+{"text": "git push to ecommerce-app", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "analyze project.pdf", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "get calculator running", "intent": "open_application", "app_name": "calculator"}
+{"text": "Search Yoga For Beginners On Google", "intent": "google_search", "query": "yoga for beginners"}
+{"text": "Search For Gym Workout On Youtube Please", "intent": "youtube_search", "query": "gym workout"}
+{"text": "SEARCH YOUTUBE FOR TAMIL SONGS", "intent": "youtube_search", "query": "tamil songs"}
+{"text": "look for lofi music on google", "intent": "google_search", "query": "lofi music"}
+{"text": "summarize pdf notes.pdf?", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "hey mj initialize github repository mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "launch the slack app", "intent": "open_application", "app_name": "slack"}
+{"text": "i am preparing for fastapi tutorial", "intent": "remember_fact", "fact": "fastapi tutorial"}
+{"text": "Github New Repo Fastapi-Backend", "intent": "github_create_repo", "repo": "fastapi-backend"}
+{"text": "read this pdf document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "send an email to recruiter@tech.com", "intent": "send_email", "email": "recruiter@tech.com"}
+{"text": "analyze project.pdf document", "intent": "analyze_pdf", "file": "project.pdf"}
+{"text": "Get Vlc Running please", "intent": "open_application", "app_name": "vlc"}
+{"text": "Look For Gym Workout On Youtube.", "intent": "youtube_search", "query": "gym workout"}
+{"text": "mj open youtube search tamil songs", "intent": "youtube_search", "query": "tamil songs"}
+{"text": "Google Stock Market Tips", "intent": "google_search", "query": "stock market tips"}
+{"text": "add new task complete assignment please?", "intent": "create_task", "task": "complete assignment"}
+{"text": "send an emial to john@gmail.com", "intent": "send_email", "email": "john@gmail.com"}
+{"text": "push latest commit to ml-model", "intent": "github_push", "repo": "ml-model"}
+{"text": "hey Open Calculator App Please", "intent": "open_application", "app_name": "calculator"}
+{"text": "MAKE A NEW TASK FOR COMPLETE ASSIGNMENT", "intent": "create_task", "task": "complete assignment"}
+{"text": "Note That How To Invest", "intent": "remember_fact", "fact": "how to invest"}
+{"text": "summarize pdf document.pdf", "intent": "analyze_pdf", "file": "document.pdf"}
+{"text": "Pull Updates From My-Portfolio", "intent": "github_pull", "repo": "my-portfolio"}
+{"text": "analyze notes.pdf", "intent": "analyze_pdf", "file": "notes.pdf"}
+{"text": "make github repo mj-assistant", "intent": "github_create_repo", "repo": "mj-assistant"}
+{"text": "hey mj put exercise for 30 minutes on my tsk list", "intent": "create_task", "task": "exercise for 30 minutes"}
+{"text": "find me results for python tutorial", "intent": "google_search", "query": "python tutorial"}
+{"text": "extract data from specification.docx", "intent": "analyze_pdf", "file": "specification.docx"}
+{"text": "hey mj open powershell.", "intent": "open_application", "app_name": "powershell"}
+{"text": "mj find me docker tutorial on youtube...", "intent": "youtube_search", "query": "docker tutorial"}
+{"text": "push code to personal-blog repo", "intent": "github_push", "repo": "personal-blog"}
+{"text": "create a github repo called my-portfolio", "intent": "github_create_repo", "repo": "my-portfolio"}
+{"text": "email team@startup.io the complete assignment details", "intent": "send_email", "email": "team@startup.io"}
+{"text": "youtube search for how to invest please", "intent": "youtube_search", "query": "how to invest"}
+{"text": "launch calculator application", "intent": "open_application", "app_name": "calculator"}
+{"text": "GIT PUSH TO ECOMMERCE-APP please", "intent": "github_push", "repo": "ecommerce-app"}
+{"text": "launch the excel app", "intent": "open_application", "app_name": "excel"}
+{"text": "yo draft an email to hr@company.org", "intent": "send_email", "email": "hr@company.org"}
+{"text": "hey mj analyze data.csv", "intent": "analyze_pdf", "file": "data.csv"}
+{"text": "open microsoft word app please", "intent": "open_application", "app_name": "microsoft word"}
+{"text": "pull from mj-assistant", "intent": "github_pull", "repo": "mj-assistant"}
+{"text": "set up a new github repo for data-pipeline", "intent": "github_create_repo", "repo": "data-pipeline"}
+{"text": "SEND MESSAGE TO PROFESSOR@UNIVERSITY.EDU", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "Save That Natural Language Processing", "intent": "remember_fact", "fact": "natural language processing"}
+{"text": "note that python tutorial...", "intent": "remember_fact", "fact": "python tutorial"}
+{"text": "read this pdf analysis.xlsx", "intent": "analyze_pdf", "file": "analysis.xlsx"}
+{"text": "find best movies 2024 information", "intent": "google_search", "query": "best movies 2024"}
+{"text": "start calculator?", "intent": "open_application", "app_name": "calculator"}
+{"text": "yo my project is coding music", "intent": "remember_fact", "fact": "coding music"}
+{"text": "Push Code To React-Dashboard Repo", "intent": "github_push", "repo": "react-dashboard"}
+{"text": "git pull ml-model", "intent": "github_pull", "repo": "ml-model"}
+{"text": "find stock market tips on youtube", "intent": "youtube_search", "query": "stock market tips"}
+{"text": "mj find me yoga for beginners on youtube...", "intent": "youtube_search", "query": "yoga for beginners"}
+{"text": "make a new task for update documentation", "intent": "create_task", "task": "update documentation"}
+{"text": "new repo ecommerce-app", "intent": "github_create_repo", "repo": "ecommerce-app"}
+{"text": "CREATE AN URGENT TASK REVIEW PULL REQUEST", "intent": "create_task", "task": "review pull request"}
+{"text": "contact professor@university.edu by email", "intent": "send_email", "email": "professor@university.edu"}
+{"text": "github new repo mobile-app", "intent": "github_create_repo", "repo": "mobile-app"}
