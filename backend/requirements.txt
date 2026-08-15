@@ -1,0 +1,109 @@
+# =============================================================
+# MJ AI Assistant — Backend Dependencies
+# Python 3.12+
+# =============================================================
+
+# ── Web Framework ─────────────────────────────────────────────
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+httpx==0.28.1
+python-multipart==0.0.20
+websockets==14.1
+sse-starlette==2.2.1
+
+# ── Database ──────────────────────────────────────────────────
+sqlalchemy[asyncio]==2.0.37
+asyncpg==0.30.0
+alembic==1.14.1
+pgvector==0.3.6
+psycopg2-binary==2.9.10
+psycopg-binary>=3.2.0
+
+# ── Redis ─────────────────────────────────────────────────────
+redis[hiredis]==5.2.1
+aioredis==2.0.1
+
+# ── LLM Providers ─────────────────────────────────────────────
+openai==1.59.5
+anthropic>=0.41.0
+google-generativeai==0.8.3
+langchain==0.3.14
+langchain-openai==0.3.0
+langchain-anthropic==0.3.3
+langchain-google-genai==2.0.7
+langgraph>=0.2.67
+langchain-community==0.3.14
+langsmith>=0.2.10
+
+# ── Embeddings & Vector ───────────────────────────────────────
+sentence-transformers==3.3.1
+tiktoken==0.8.0
+
+# ── MCP (Model Context Protocol) ──────────────────────────────
+mcp==1.2.0
+
+# ── Web Search ────────────────────────────────────────────────
+tavily-python==0.5.0
+duckduckgo-search==7.3.1
+beautifulsoup4==4.12.3
+requests==2.32.3
+playwright==1.49.1
+
+# ── Voice ─────────────────────────────────────────────────────
+# 
+openai-whisper>=20240930
+pydub==0.25.1
+soundfile==0.12.1
+
+# ── File Processing ───────────────────────────────────────────
+pypdf==5.1.0
+python-docx==1.1.2
+python-pptx==1.0.2
+pandas==2.2.3
+openpyxl==3.1.5
+Pillow==11.1.0
+
+# ── Email ─────────────────────────────────────────────────────
+aiosmtplib==3.0.2
+aioimaplib==2.0.1
+
+# ── GitHub ────────────────────────────────────────────────────
+PyGithub==2.5.0
+gitpython==3.1.44
+
+# ── Background Tasks ──────────────────────────────────────────
+celery[redis]==5.4.0
+flower==2.0.1
+apscheduler==3.10.4
+
+# ── Security ──────────────────────────────────────────────────
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-decouple==3.8
+
+# ── Observability ─────────────────────────────────────────────
+opentelemetry-api==1.29.0
+opentelemetry-sdk==1.29.0
+opentelemetry-instrumentation-fastapi==0.50b0
+opentelemetry-exporter-otlp==1.29.0
+prometheus-fastapi-instrumentator==7.0.0
+structlog==24.4.0
+
+# ── Utilities ─────────────────────────────────────────────────
+pydantic==2.10.5
+pydantic-settings==2.7.1
+email-validator>=2.0.0
+python-dotenv==1.0.1
+tenacity==9.0.0
+rich==13.9.4
+click==8.1.8
+croniter==5.0.1
+pytz==2024.2
+uuid6==2024.1.12
+
+# ── Testing ───────────────────────────────────────────────────
+pytest==8.3.4
+pytest-asyncio==0.25.1
+pytest-cov==6.0.0
+httpx==0.28.1
+factory-boy==3.3.1
