@@ -1,0 +1,130 @@
+# ==============================================================================
+# MJ AI OS Assistant — Git Ignore Configuration
+# ==============================================================================
+
+# ── 1. Secrets, Credentials & Local Environment ──────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# ── 2. Python & Virtual Environments ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env312/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ── 3. Testing, Coverage & Type Checking ──────────────────────────────────────
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+htmlcov/
+
+# ── 4. Frontend & Node.js ────────────────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+.vite/
+frontend/.vite/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── 5. Machine Learning Model Weights & Checkpoints (>100MB binaries) ─────────
+# Large PyTorch / Transformers model binary weights are excluded from Git history.
+# Model architecture configs and tokenizers (config.json, tokenizer.json) are tracked.
+# See docs/MODEL_SETUP.md for instructions on training/generating weights.
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.h5
+*.tflite
+*.ckpt
+checkpoints/
+training/models/checkpoints/
+training/models/ner_checkpoints/
+training/models/base/
+.huggingface/
+huggingface_cache/
+hf_cache/
+
+# ── 6. Jupyter Notebook & IDE Caches ─────────────────────────────────────────
+.ipynb_checkpoints/
+.jupyter/
+.jupyter_runtime/
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+
+# ── 7. Operating System & Logs ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.log
+logs/
+*.tmp
+*.temp
+
+# ── 8. Keep essential directory structures ────────────────────────────────────
+!data/traces/.gitkeep
+!backend/app/ml_models/mj_intent_model/config.json
+!backend/app/ml_models/mj_intent_model/tokenizer.json
+!backend/app/ml_models/mj_intent_model/tokenizer_config.json
+!backend/app/ml_models/mj_intent_model/special_tokens_map.json
+!backend/app/ml_models/mj_intent_model/vocab.txt
+!backend/app/ml_models/mj_entity_model/config.json
+!backend/app/ml_models/mj_entity_model/tokenizer.json
+!backend/app/ml_models/mj_entity_model/tokenizer_config.json
+!backend/app/ml_models/mj_entity_model/special_tokens_map.json
+!backend/app/ml_models/mj_entity_model/vocab.txt
