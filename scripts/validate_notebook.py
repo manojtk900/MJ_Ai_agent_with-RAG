@@ -22,7 +22,7 @@ def validate():
 
     cells = nb.get("cells", [])
     print(f"Total Cells: {len(cells)}")
-    assert len(cells) == 39, f"Expected 39 cells, got {len(cells)}"
+    assert len(cells) == 30, f"Expected 30 cells, got {len(cells)}"
 
     syntax_errors = 0
     for idx, cell in enumerate(cells, 1):
