@@ -1,0 +1,62 @@
+{
+  "label2id": {
+    "O": 0,
+    "B-query": 1,
+    "B-app_name": 2,
+    "B-email": 3,
+    "B-task": 4,
+    "B-repo": 5,
+    "B-file": 6,
+    "B-url": 7,
+    "I-query": 8,
+    "I-app_name": 9,
+    "I-email": 10,
+    "I-task": 11,
+    "I-repo": 12,
+    "I-file": 13,
+    "I-url": 14
+  },
+  "id2label": {
+    "0": "O",
+    "1": "B-query",
+    "2": "B-app_name",
+    "3": "B-email",
+    "4": "B-task",
+    "5": "B-repo",
+    "6": "B-file",
+    "7": "B-url",
+    "8": "I-query",
+    "9": "I-app_name",
+    "10": "I-email",
+    "11": "I-task",
+    "12": "I-repo",
+    "13": "I-file",
+    "14": "I-url"
+  },
+  "entity_types": [
+    "query",
+    "app_name",
+    "email",
+    "task",
+    "repo",
+    "file",
+    "url"
+  ],
+  "labels": [
+    "O",
+    "B-query",
+    "B-app_name",
+    "B-email",
+    "B-task",
+    "B-repo",
+    "B-file",
+    "B-url",
+    "I-query",
+    "I-app_name",
+    "I-email",
+    "I-task",
+    "I-repo",
+    "I-file",
+    "I-url"
+  ]
+}
